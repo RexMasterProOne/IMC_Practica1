@@ -1,0 +1,1900 @@
+**********
+SEED 1
+**********
+Iteration 1	 Training error: 0.327318
+Iteration 2	 Training error: 0.26256
+Iteration 3	 Training error: 0.293102
+Iteration 4	 Training error: 0.271077
+Iteration 5	 Training error: 0.258475
+Iteration 6	 Training error: 0.267201
+Iteration 7	 Training error: 0.252933
+Iteration 8	 Training error: 0.248811
+Iteration 9	 Training error: 0.24657
+Iteration 10	 Training error: 0.242324
+Iteration 11	 Training error: 0.242072
+Iteration 12	 Training error: 0.238009
+Iteration 13	 Training error: 0.234716
+Iteration 14	 Training error: 0.232379
+Iteration 15	 Training error: 0.230181
+Iteration 16	 Training error: 0.228313
+Iteration 17	 Training error: 0.225576
+Iteration 18	 Training error: 0.222909
+Iteration 19	 Training error: 0.220479
+Iteration 20	 Training error: 0.218152
+Iteration 21	 Training error: 0.215676
+Iteration 22	 Training error: 0.212896
+Iteration 23	 Training error: 0.210071
+Iteration 24	 Training error: 0.207253
+Iteration 25	 Training error: 0.204365
+Iteration 26	 Training error: 0.201286
+Iteration 27	 Training error: 0.198025
+Iteration 28	 Training error: 0.194663
+Iteration 29	 Training error: 0.1912
+Iteration 30	 Training error: 0.187584
+Iteration 31	 Training error: 0.183784
+Iteration 32	 Training error: 0.179827
+Iteration 33	 Training error: 0.175734
+Iteration 34	 Training error: 0.171493
+Iteration 35	 Training error: 0.167087
+Iteration 36	 Training error: 0.162525
+Iteration 37	 Training error: 0.157824
+Iteration 38	 Training error: 0.152995
+Iteration 39	 Training error: 0.148039
+Iteration 40	 Training error: 0.142968
+Iteration 41	 Training error: 0.137802
+Iteration 42	 Training error: 0.132563
+Iteration 43	 Training error: 0.127268
+Iteration 44	 Training error: 0.121939
+Iteration 45	 Training error: 0.116601
+Iteration 46	 Training error: 0.11128
+Iteration 47	 Training error: 0.106004
+Iteration 48	 Training error: 0.100797
+Iteration 49	 Training error: 0.0956842
+Iteration 50	 Training error: 0.0906909
+Iteration 51	 Training error: 0.085839
+Iteration 52	 Training error: 0.0811476
+Iteration 53	 Training error: 0.0766333
+Iteration 54	 Training error: 0.0723097
+Iteration 55	 Training error: 0.0681871
+Iteration 56	 Training error: 0.0642721
+Iteration 57	 Training error: 0.0605682
+Iteration 58	 Training error: 0.057076
+Iteration 59	 Training error: 0.0537936
+Iteration 60	 Training error: 0.0507167
+Iteration 61	 Training error: 0.0478388
+Iteration 62	 Training error: 0.0451524
+Iteration 63	 Training error: 0.0426486
+Iteration 64	 Training error: 0.0403179
+Iteration 65	 Training error: 0.03815
+Iteration 66	 Training error: 0.0361349
+Iteration 67	 Training error: 0.0342623
+Iteration 68	 Training error: 0.0325221
+Iteration 69	 Training error: 0.0309049
+Iteration 70	 Training error: 0.0294012
+Iteration 71	 Training error: 0.0280025
+Iteration 72	 Training error: 0.0267004
+Iteration 73	 Training error: 0.0254875
+Iteration 74	 Training error: 0.0243565
+Iteration 75	 Training error: 0.023301
+Iteration 76	 Training error: 0.0223149
+Iteration 77	 Training error: 0.0213926
+Iteration 78	 Training error: 0.0205292
+Iteration 79	 Training error: 0.0197199
+Iteration 80	 Training error: 0.0189605
+Iteration 81	 Training error: 0.0182471
+Iteration 82	 Training error: 0.0175762
+Iteration 83	 Training error: 0.0169446
+Iteration 84	 Training error: 0.0163493
+Iteration 85	 Training error: 0.0157876
+Iteration 86	 Training error: 0.015257
+Iteration 87	 Training error: 0.0147554
+Iteration 88	 Training error: 0.0142805
+Iteration 89	 Training error: 0.0138306
+Iteration 90	 Training error: 0.0134039
+Iteration 91	 Training error: 0.0129989
+Iteration 92	 Training error: 0.012614
+Iteration 93	 Training error: 0.012248
+Iteration 94	 Training error: 0.0118995
+Iteration 95	 Training error: 0.0115676
+Iteration 96	 Training error: 0.011251
+Iteration 97	 Training error: 0.010949
+Iteration 98	 Training error: 0.0106605
+Iteration 99	 Training error: 0.0103847
+Iteration 100	 Training error: 0.010121
+Iteration 101	 Training error: 0.00986853
+Iteration 102	 Training error: 0.00962669
+Iteration 103	 Training error: 0.00939487
+Iteration 104	 Training error: 0.00917251
+Iteration 105	 Training error: 0.00895908
+Iteration 106	 Training error: 0.0087541
+Iteration 107	 Training error: 0.00855709
+Iteration 108	 Training error: 0.00836765
+Iteration 109	 Training error: 0.00818537
+Iteration 110	 Training error: 0.00800987
+Iteration 111	 Training error: 0.00784083
+Iteration 112	 Training error: 0.0076779
+Iteration 113	 Training error: 0.00752078
+Iteration 114	 Training error: 0.00736919
+Iteration 115	 Training error: 0.00722287
+Iteration 116	 Training error: 0.00708155
+Iteration 117	 Training error: 0.006945
+Iteration 118	 Training error: 0.006813
+Iteration 119	 Training error: 0.00668534
+Iteration 120	 Training error: 0.00656182
+Iteration 121	 Training error: 0.00644226
+Iteration 122	 Training error: 0.00632648
+Iteration 123	 Training error: 0.00621431
+Iteration 124	 Training error: 0.0061056
+Iteration 125	 Training error: 0.0060002
+Iteration 126	 Training error: 0.00589797
+Iteration 127	 Training error: 0.00579877
+Iteration 128	 Training error: 0.00570249
+Iteration 129	 Training error: 0.005609
+Iteration 130	 Training error: 0.00551818
+Iteration 131	 Training error: 0.00542994
+Iteration 132	 Training error: 0.00534417
+Iteration 133	 Training error: 0.00526078
+Iteration 134	 Training error: 0.00517966
+Iteration 135	 Training error: 0.00510075
+Iteration 136	 Training error: 0.00502394
+Iteration 137	 Training error: 0.00494916
+Iteration 138	 Training error: 0.00487635
+Iteration 139	 Training error: 0.00480541
+Iteration 140	 Training error: 0.0047363
+Iteration 141	 Training error: 0.00466894
+Iteration 142	 Training error: 0.00460326
+Iteration 143	 Training error: 0.00453922
+Iteration 144	 Training error: 0.00447675
+Iteration 145	 Training error: 0.0044158
+Iteration 146	 Training error: 0.00435632
+Iteration 147	 Training error: 0.00429825
+Iteration 148	 Training error: 0.00424156
+Iteration 149	 Training error: 0.00418618
+Iteration 150	 Training error: 0.00413209
+Iteration 151	 Training error: 0.00407924
+Iteration 152	 Training error: 0.00402759
+Iteration 153	 Training error: 0.0039771
+Iteration 154	 Training error: 0.00392773
+Iteration 155	 Training error: 0.00387945
+Iteration 156	 Training error: 0.00383223
+Iteration 157	 Training error: 0.00378603
+Iteration 158	 Training error: 0.00374082
+Iteration 159	 Training error: 0.00369657
+Iteration 160	 Training error: 0.00365325
+Iteration 161	 Training error: 0.00361084
+Iteration 162	 Training error: 0.00356931
+Iteration 163	 Training error: 0.00352863
+Iteration 164	 Training error: 0.00348877
+Iteration 165	 Training error: 0.00344972
+Iteration 166	 Training error: 0.00341145
+Iteration 167	 Training error: 0.00337394
+Iteration 168	 Training error: 0.00333717
+Iteration 169	 Training error: 0.00330111
+Iteration 170	 Training error: 0.00326575
+Iteration 171	 Training error: 0.00323107
+Iteration 172	 Training error: 0.00319704
+Iteration 173	 Training error: 0.00316366
+Iteration 174	 Training error: 0.00313091
+Iteration 175	 Training error: 0.00309876
+Iteration 176	 Training error: 0.0030672
+Iteration 177	 Training error: 0.00303622
+Iteration 178	 Training error: 0.0030058
+Iteration 179	 Training error: 0.00297593
+Iteration 180	 Training error: 0.00294659
+Iteration 181	 Training error: 0.00291777
+Iteration 182	 Training error: 0.00288946
+Iteration 183	 Training error: 0.00286164
+Iteration 184	 Training error: 0.0028343
+Iteration 185	 Training error: 0.00280744
+Iteration 186	 Training error: 0.00278103
+Iteration 187	 Training error: 0.00275507
+Iteration 188	 Training error: 0.00272954
+Iteration 189	 Training error: 0.00270444
+Iteration 190	 Training error: 0.00267976
+Iteration 191	 Training error: 0.00265548
+Iteration 192	 Training error: 0.0026316
+Iteration 193	 Training error: 0.00260811
+Iteration 194	 Training error: 0.00258499
+Iteration 195	 Training error: 0.00256225
+Iteration 196	 Training error: 0.00253986
+Iteration 197	 Training error: 0.00251783
+Iteration 198	 Training error: 0.00249615
+Iteration 199	 Training error: 0.0024748
+Iteration 200	 Training error: 0.00245378
+Iteration 201	 Training error: 0.00243308
+Iteration 202	 Training error: 0.0024127
+Iteration 203	 Training error: 0.00239263
+Iteration 204	 Training error: 0.00237286
+Iteration 205	 Training error: 0.00235339
+Iteration 206	 Training error: 0.00233421
+Iteration 207	 Training error: 0.0023153
+Iteration 208	 Training error: 0.00229668
+Iteration 209	 Training error: 0.00227833
+Iteration 210	 Training error: 0.00226024
+Iteration 211	 Training error: 0.00224241
+Iteration 212	 Training error: 0.00222484
+Iteration 213	 Training error: 0.00220752
+Iteration 214	 Training error: 0.00219044
+Iteration 215	 Training error: 0.0021736
+Iteration 216	 Training error: 0.002157
+Iteration 217	 Training error: 0.00214063
+Iteration 218	 Training error: 0.00212448
+Iteration 219	 Training error: 0.00210855
+Iteration 220	 Training error: 0.00209284
+Iteration 221	 Training error: 0.00207735
+Iteration 222	 Training error: 0.00206206
+Iteration 223	 Training error: 0.00204697
+Iteration 224	 Training error: 0.00203209
+Iteration 225	 Training error: 0.0020174
+Iteration 226	 Training error: 0.00200291
+Iteration 227	 Training error: 0.00198861
+Iteration 228	 Training error: 0.00197449
+Iteration 229	 Training error: 0.00196055
+Iteration 230	 Training error: 0.0019468
+Iteration 231	 Training error: 0.00193321
+Iteration 232	 Training error: 0.00191981
+Iteration 233	 Training error: 0.00190657
+Iteration 234	 Training error: 0.00189349
+Iteration 235	 Training error: 0.00188058
+Iteration 236	 Training error: 0.00186783
+Iteration 237	 Training error: 0.00185524
+Iteration 238	 Training error: 0.00184281
+Iteration 239	 Training error: 0.00183052
+Iteration 240	 Training error: 0.00181838
+Iteration 241	 Training error: 0.0018064
+Iteration 242	 Training error: 0.00179455
+Iteration 243	 Training error: 0.00178285
+Iteration 244	 Training error: 0.00177128
+Iteration 245	 Training error: 0.00175986
+Iteration 246	 Training error: 0.00174856
+Iteration 247	 Training error: 0.0017374
+Iteration 248	 Training error: 0.00172637
+Iteration 249	 Training error: 0.00171547
+Iteration 250	 Training error: 0.0017047
+Iteration 251	 Training error: 0.00169404
+Iteration 252	 Training error: 0.00168351
+Iteration 253	 Training error: 0.0016731
+Iteration 254	 Training error: 0.00166281
+Iteration 255	 Training error: 0.00165263
+Iteration 256	 Training error: 0.00164257
+Iteration 257	 Training error: 0.00163261
+Iteration 258	 Training error: 0.00162277
+Iteration 259	 Training error: 0.00161304
+Iteration 260	 Training error: 0.00160341
+Iteration 261	 Training error: 0.00159389
+Iteration 262	 Training error: 0.00158447
+Iteration 263	 Training error: 0.00157516
+Iteration 264	 Training error: 0.00156594
+Iteration 265	 Training error: 0.00155683
+Iteration 266	 Training error: 0.00154781
+Iteration 267	 Training error: 0.00153888
+Iteration 268	 Training error: 0.00153005
+Iteration 269	 Training error: 0.00152132
+Iteration 270	 Training error: 0.00151267
+Iteration 271	 Training error: 0.00150411
+Iteration 272	 Training error: 0.00149565
+Iteration 273	 Training error: 0.00148727
+Iteration 274	 Training error: 0.00147898
+Iteration 275	 Training error: 0.00147077
+Iteration 276	 Training error: 0.00146264
+Iteration 277	 Training error: 0.0014546
+Iteration 278	 Training error: 0.00144664
+Iteration 279	 Training error: 0.00143876
+Iteration 280	 Training error: 0.00143095
+Iteration 281	 Training error: 0.00142323
+Iteration 282	 Training error: 0.00141558
+Iteration 283	 Training error: 0.00140801
+Iteration 284	 Training error: 0.00140051
+Iteration 285	 Training error: 0.00139308
+Iteration 286	 Training error: 0.00138573
+Iteration 287	 Training error: 0.00137845
+Iteration 288	 Training error: 0.00137124
+Iteration 289	 Training error: 0.0013641
+Iteration 290	 Training error: 0.00135702
+Iteration 291	 Training error: 0.00135002
+Iteration 292	 Training error: 0.00134308
+Iteration 293	 Training error: 0.0013362
+Iteration 294	 Training error: 0.00132939
+Iteration 295	 Training error: 0.00132265
+Iteration 296	 Training error: 0.00131596
+Iteration 297	 Training error: 0.00130934
+Iteration 298	 Training error: 0.00130278
+Iteration 299	 Training error: 0.00129628
+Iteration 300	 Training error: 0.00128984
+Iteration 301	 Training error: 0.00128346
+Iteration 302	 Training error: 0.00127714
+Iteration 303	 Training error: 0.00127088
+Iteration 304	 Training error: 0.00126467
+Iteration 305	 Training error: 0.00125851
+We exit because the training is not improving!!
+Iteration 1001	 Training error: 0.00125242
+NETWORK WEIGHTS
+===============
+Layer 1 weights:
+ Neuron 0: 0.987858 -0.734727 0.656079 
+ Neuron 1: 0.492159 1.18042 -0.961322 
+ Neuron 2: -0.460975 0.535478 -0.647659 
+ Neuron 3: -0.0142644 0.284933 -0.430524 
+ Neuron 4: -0.501263 0.696083 1.2939 
+ Neuron 5: 1.0036 0.475131 0.400223 
+ Neuron 6: -0.931643 -0.933537 -1.34892 
+ Neuron 7: -1.06533 -1.55373 1.11662 
+ Neuron 8: -0.762243 -0.797526 -1.56263 
+ Neuron 9: -0.295234 1.31674 -0.26271 
+ Neuron 10: 0.135885 1.02619 0.122204 
+ Neuron 11: -0.43034 1.00173 -0.347919 
+ Neuron 12: -0.0287589 1.63299 -0.520965 
+ Neuron 13: 0.515935 -0.323863 0.723521 
+ Neuron 14: -0.0677389 1.69554 0.0775607 
+ Neuron 15: 0.0596338 0.260018 1.12345 
+ Neuron 16: -1.10691 1.56556 -1.06144 
+ Neuron 17: -0.727928 -1.24352 0.694385 
+ Neuron 18: 0.73052 0.209441 -0.922365 
+ Neuron 19: -0.815283 -0.992675 -1.29441 
+ Neuron 20: -0.107191 0.791667 1.08668 
+ Neuron 21: 0.677027 -0.510531 0.186789 
+ Neuron 22: -0.357294 0.668524 0.251527 
+ Neuron 23: 0.52667 -0.638177 -0.611957 
+ Neuron 24: 0.0364699 0.93243 1.58778 
+ Neuron 25: 0.475404 -1.09848 0.846866 
+ Neuron 26: 0.180965 -0.224938 0.888084 
+ Neuron 27: -0.743013 -0.161495 1.24785 
+ Neuron 28: 1.29015 -1.3867 -1.68657 
+ Neuron 29: 0.719627 -0.524698 -0.00125417 
+ Neuron 30: 0.890944 0.134112 0.340813 
+ Neuron 31: 1.20758 -1.13721 1.87037 
+
+Layer 2 weights:
+ Neuron 0: -0.156232 0.629489 0.278536 0.85211 -0.0128691 -0.711371 0.886209 0.937874 -0.533364 0.859775 0.236033 -0.231936 0.200616 -0.529568 0.548187 -0.50174 -0.224719 -0.530863 -0.493822 -0.338489 0.19674 -0.356899 -0.597461 0.72965 -0.650362 -0.92133 0.00232727 0.504204 0.946011 1.17423 0.421446 -0.234714 0.390401 
+ Neuron 1: -0.208815 -0.364074 -0.555635 0.172165 -0.490166 -0.635034 0.527159 -0.792613 0.674047 -0.717633 0.506872 -0.819648 0.917033 -0.888105 0.103905 -0.629253 -0.452661 0.621126 0.522098 0.310637 0.888461 0.330321 0.559826 -0.786221 -0.72437 0.111712 -0.79498 -0.800088 -0.519684 -0.0407424 0.680118 0.200798 0.562654 
+ Neuron 2: -0.898875 -0.78201 0.789651 -0.534568 0.762679 -0.856926 1.06442 -1.00681 1.06727 -1.01059 -0.918531 0.810545 0.177655 -0.682309 -0.691154 -0.254494 0.785835 0.843744 -0.097025 0.113011 -0.00959548 -0.23932 0.36196 -0.849058 0.135219 0.461993 -0.499465 0.966522 0.224295 1.12291 0.477768 0.277828 -1.19937 
+ Neuron 3: 0.424197 0.569944 0.960132 0.785456 0.646449 0.915884 0.441464 0.825843 0.77006 0.353805 0.0638195 -0.629756 0.697648 0.877251 -0.933374 0.386241 -0.551106 0.317607 -0.688936 0.396698 -0.348679 -0.334494 -0.630037 -0.828015 0.225228 -0.573226 0.174985 -0.0763925 0.838684 -0.549356 0.00932839 0.381588 -0.879077 
+ Neuron 4: -0.0614751 0.171187 0.871781 -0.086959 -0.330849 0.688584 -0.122683 -0.987881 -0.297634 0.184445 0.696135 -0.529705 0.350775 -0.02824 -0.0393756 -0.380539 0.414934 -0.623457 0.250185 -0.909249 -0.180591 0.369754 0.339055 0.275981 -0.305625 -0.636436 0.198953 0.245171 0.463302 -0.331045 0.469061 -0.594292 0.823336 
+ Neuron 5: 0.43167 0.29112 -0.420011 0.147593 -0.788585 -0.202572 1.00155 0.0750453 -0.771156 -1.11838 0.0148611 0.432731 0.355195 0.598856 -0.296037 0.879861 -0.137857 -0.0564365 -0.658712 0.869114 -1.33054 0.967183 -0.389007 -0.412118 -0.283307 1.3161 0.754941 0.628565 0.586149 -0.906644 0.339446 -0.0834802 0.559332 
+ Neuron 6: 0.871766 0.827636 0.714133 -0.603278 0.579237 0.0974087 -0.414876 0.801852 0.812718 0.739982 -0.0119999 0.145609 -0.681426 -0.461587 0.72455 -0.0226084 -0.0738601 0.685739 -0.0130264 -0.431722 -0.645691 0.368695 0.446872 -0.726594 0.192793 -0.0157194 0.674033 0.444882 -0.644551 -0.576694 -0.0116098 -0.766397 -0.721076 
+ Neuron 7: -0.259481 -0.392896 0.721355 0.851523 0.246828 0.618532 0.692462 -0.0690631 -0.102054 -0.299243 0.364192 0.192089 -0.486231 -0.73317 -0.851276 -0.812022 0.265325 -0.160776 -0.288369 -0.307897 -0.915381 -0.252566 0.88356 0.135411 -0.416619 0.276191 0.476575 -0.0182137 -0.627316 1.01022 0.256842 0.0620152 -0.73032 
+ Neuron 8: 0.207353 0.0884683 0.580025 -0.345963 -0.489399 -0.170128 0.488755 0.267507 1.1047 -0.310861 0.596187 -0.776206 -0.25387 -1.15589 0.744497 0.398487 -0.259541 -1.01493 0.858749 0.366562 -0.87204 0.030633 1.11797 0.409157 -0.610786 0.0676558 1.03336 -0.62652 -0.63985 -0.347813 -0.252156 0.392996 1.01075 
+ Neuron 9: -0.778225 -0.938394 -0.875128 -0.0827278 0.535711 0.346453 -0.152281 -0.752801 0.118835 0.164697 0.0624282 0.181015 -0.284828 -0.380993 0.736316 -0.0406464 -0.686773 0.221712 0.00970127 0.222829 0.203464 -0.5413 0.6216 -0.867711 -0.805495 0.825392 -0.704916 -0.0771513 -0.590996 0.623424 -0.456043 -0.321245 0.710186 
+ Neuron 10: -0.305287 0.646767 0.355585 -0.933429 -0.481307 0.512558 0.206017 0.756302 -0.437565 -0.459303 -0.651754 0.188568 -0.799053 0.32497 0.543721 0.40022 -0.648558 -0.259076 -0.386121 -0.0929939 -0.439792 -0.266372 0.0848378 -0.715633 0.152317 -1.03871 -0.212966 -0.251182 -0.439233 0.47882 -0.463527 0.277743 0.12837 
+ Neuron 11: 0.887892 0.36779 0.601711 0.445764 -0.353641 0.288453 -0.922517 0.051423 0.782981 0.202472 0.357257 0.0707568 -0.169585 -0.238307 0.461117 0.644252 0.371749 -0.600637 -0.878248 -0.832008 0.333602 -0.639029 0.25729 0.420764 0.17979 -0.977324 -1.00902 -0.374152 -0.441383 0.435867 0.733951 -0.592752 -0.372347 
+ Neuron 12: 0.333934 0.757952 0.307411 -0.374192 0.769384 -0.627551 -0.686885 0.00736282 0.655827 0.35199 0.807494 -0.618173 -0.211405 0.411949 0.737344 0.0946657 0.477737 0.863411 -0.53493 0.852633 0.103746 0.867402 -0.0115622 0.105017 0.87796 0.599178 0.628481 0.188728 0.313634 0.988315 0.87121 -0.351692 0.749471 
+ Neuron 13: 0.217606 0.0735324 1.1312 0.864284 0.668637 -0.661305 0.186798 0.257805 -1.3168 0.913698 1.11248 0.998435 0.568165 0.336944 0.00358907 0.635915 0.130748 0.397438 -1.13482 0.450132 -0.62639 0.425113 -0.10132 0.829433 0.19264 -0.858882 -0.368642 -0.244026 -1.28806 0.575905 -0.343814 0.23297 -0.420923 
+ Neuron 14: -0.654714 0.121906 -0.672762 -0.417953 -0.977489 0.675558 0.144749 0.568521 0.338403 -0.134678 -0.356886 0.888298 -1.02236 -1.12912 0.502788 -0.0523859 -0.349681 -0.941584 0.423695 0.673147 0.477774 0.106252 0.0350877 0.666222 0.805494 1.05892 1.19946 0.769688 -0.112538 -0.156611 -0.406199 0.0207055 1.43577 
+ Neuron 15: -0.0640758 0.60913 1.46944 -0.39391 -0.0253844 0.514841 0.547445 0.973704 -1.08338 0.68866 1.27223 -0.056544 0.0286796 0.594465 -0.0372476 0.671745 -0.643946 0.241068 -0.697583 0.448169 0.992537 -0.417973 0.0556958 0.924396 -0.757139 -0.181875 -0.891646 0.0928534 -0.0873423 0.135345 0.0737931 -0.902166 -0.0756134 
+ Neuron 16: 0.249792 -0.510802 -0.91259 -0.191931 -0.897514 0.67423 0.233846 0.704473 0.890986 1.0486 -0.62651 -0.125797 0.0109377 0.612338 0.25003 0.898824 -0.807351 -0.271462 0.857646 -0.0728609 0.950014 0.333729 0.034822 -0.492255 1.11499 -0.926402 0.712551 0.207913 0.365668 1.25678 -0.541275 -0.397129 -0.833902 
+ Neuron 17: -0.435674 0.335532 -0.37427 -0.63591 -0.446574 1.12941 -0.781538 -0.713144 -0.924301 -0.120726 0.538775 1.09928 -0.616448 0.527179 -0.738461 0.113978 0.203353 0.0187646 -0.536113 -0.448506 0.781737 0.420758 -0.583502 -0.71617 -0.172588 0.920031 0.526539 -0.191204 1.06748 -1.11687 0.0939626 -0.444643 0.484131 
+ Neuron 18: 0.377887 -0.345009 0.796354 0.276399 -0.325984 -0.896387 0.507465 0.615144 0.343503 0.379321 0.786636 -0.380911 0.496843 -0.409922 0.607432 -0.629583 0.17859 -0.926987 -0.830138 -0.70321 -0.493843 -0.71478 0.165296 -0.887388 0.757788 0.88773 -0.88517 0.839706 -0.0806182 -0.548591 0.162852 -0.681175 0.191817 
+ Neuron 19: -0.0364792 0.560945 0.772484 0.113376 0.164457 0.365725 -0.516515 -0.484981 0.410227 0.0380393 -0.892469 0.847689 -0.295622 -0.582715 0.0125915 -0.192269 -0.447113 0.484661 0.37333 -0.0547518 -0.509608 0.290299 -0.339761 -0.596455 0.594128 -0.553366 0.282083 -0.999304 0.693108 0.935164 0.18641 -0.349994 0.15355 
+ Neuron 20: 0.123414 0.798621 -0.489487 -0.519218 -0.820011 -0.222059 0.59912 0.61042 0.0640676 1.07762 0.653601 0.231997 -0.440848 -0.503307 -0.974201 -1.2459 -1.25565 -0.300356 -0.329156 0.633072 1.06521 -0.288919 0.0852985 -1.02006 -0.362665 -0.422102 1.01477 -0.948371 -0.996415 -0.254666 0.548181 0.152836 -0.74406 
+ Neuron 21: 0.912997 0.739797 -0.561448 -0.0516932 0.528471 0.53938 -1.03915 0.225084 0.320685 0.58819 0.80808 -0.806519 0.586817 0.917535 -0.831478 -0.444702 -0.555128 0.572976 -0.902797 0.51326 -0.351835 -0.637804 0.867803 0.523098 -0.810629 0.924233 0.694703 -0.348447 0.309118 -0.177012 -0.132213 0.27699 -0.321383 
+ Neuron 22: 0.159626 -0.767294 -0.817132 -0.255967 -0.747372 0.266881 -0.832041 0.802113 0.0908311 -0.527143 0.3011 0.0231625 -0.396928 0.869067 0.488558 -0.784237 -0.974245 -0.00727485 -0.243734 -0.579629 -0.0423419 -0.711769 -0.408595 -0.159787 -0.983514 0.24033 -0.770407 -0.119545 -0.891048 0.530573 0.546203 0.322313 0.793408 
+ Neuron 23: 0.674074 -0.940036 -0.967073 0.0490959 -0.672375 1.14418 -0.590968 -0.645234 0.249773 -0.18066 0.619936 0.300761 -0.0721004 0.817842 0.248987 1.09495 -0.26829 0.812389 -0.295649 -0.473953 -1.25562 0.926781 -0.348321 0.658545 0.588712 1.10043 0.546583 0.503192 0.479758 -0.230447 0.148772 0.0871154 0.143656 
+ Neuron 24: 0.329271 -0.953296 0.519522 0.199656 -0.725863 -0.729711 -0.626678 0.575948 0.658524 0.490507 -0.6336 0.324337 -0.37842 -0.79033 0.759234 -0.800478 -0.0635788 -0.471382 -0.618893 -0.418416 0.335808 0.874439 -0.567048 0.00603188 0.555094 0.848024 -0.728865 -0.42991 0.0986477 0.275463 0.735364 -0.549782 0.337507 
+ Neuron 25: 0.238527 0.642488 0.602093 0.544752 -0.954302 0.164452 0.226978 0.514554 0.558811 -0.448593 -0.842205 0.749621 -0.660881 -0.65029 -0.295875 -0.120214 -0.257165 0.304042 -0.795568 -0.356926 0.721823 0.194293 -0.807168 0.601057 0.49279 -0.216978 -0.290062 -0.225851 -0.460125 0.209435 -0.880724 0.790208 -0.16991 
+ Neuron 26: 0.730835 0.38145 -0.0370023 -0.105839 -0.427409 -0.486829 -0.537024 0.138102 -0.504089 -0.746902 0.451118 -0.0285077 -0.0375921 -0.620485 0.730847 -0.736157 -0.365464 -0.709102 -1.06128 0.734022 -0.413883 0.706925 0.283394 0.391064 -0.723582 -0.853173 0.959611 0.560211 -0.775992 0.541428 -0.594087 0.971948 0.182511 
+ Neuron 27: 0.464788 0.134826 0.690292 0.723076 0.49217 -0.0304359 -0.555804 0.716698 -0.65247 0.420415 -0.449736 -0.291111 0.0642952 -0.139431 0.425091 0.390079 0.0338639 -0.0761844 -0.928359 -0.441999 -0.541497 0.50199 0.0275852 -0.496635 0.303297 -0.468459 -0.0674511 0.178091 -0.045048 -0.402216 -0.76129 -0.719278 0.938054 
+ Neuron 28: 0.77025 0.98046 -0.0206433 -0.43868 -0.635966 -0.318842 -0.126172 0.720082 0.45505 0.586686 -0.260376 -0.764976 -0.169809 -0.849552 0.201279 0.876682 -0.816859 0.72643 -0.616855 0.629569 -0.364335 -0.277245 -0.0607644 0.0273559 0.526556 0.882956 0.935873 -0.814979 -0.94778 -0.792225 0.816741 0.79936 -0.944259 
+ Neuron 29: -0.0308321 -0.565531 -0.80246 0.574876 0.321317 -1.08104 -0.07811 -0.0203014 0.357002 0.386942 0.519998 -0.0863055 -0.67988 0.35759 0.351326 -1.14758 0.714969 -0.0661287 0.0974897 -0.0697812 1.00699 0.455047 -0.610239 0.618862 1.01372 -0.954269 0.950268 0.88711 -0.802935 1.26612 1.09589 0.0473736 -1.12197 
+ Neuron 30: -0.739664 -0.759832 0.332498 -0.272641 0.490753 -1.14898 0.452725 -0.343656 0.626053 -0.508622 0.415587 0.445413 1.0456 0.49425 0.0476332 0.0899579 -1.17004 1.40745 -0.422094 0.945654 -0.913878 -0.651618 0.398644 -0.396623 -0.608798 0.320584 -0.681648 -1.2345 0.211904 0.987373 -1.16958 0.690246 -1.23069 
+ Neuron 31: 0.1969 -0.721755 0.869188 0.289097 0.701676 -0.448126 0.0101022 -0.700662 0.531016 -0.538275 -0.855358 -0.130808 0.68901 0.0543022 -0.120045 0.673829 0.80254 -0.319201 0.830629 -0.724223 -0.605517 -0.478034 -0.325486 0.811454 0.185115 -0.281415 0.229163 0.00261074 -0.290739 -0.161357 0.345981 -1.03035 0.335718 
+
+Layer 3 weights:
+ Neuron 0: 0.485576 0.757108 0.413765 1.85974 -0.615128 -0.129888 1.55694 -0.0165761 0.921207 -1.09237 0.00246345 -0.494235 0.389538 -0.389902 -2.56273 -1.88259 -2.01131 1.28036 -1.30431 -0.242327 0.879228 -1.81614 -0.73583 -0.644885 1.9572 -0.161694 0.0861868 -0.495914 -0.879878 0.27748 1.77069 2.48117 -0.194536 
+
+Desired output Vs Obtained output (test)
+=========================================
+1 -- 0.965143 
+0 -- 0.0347091 
+1 -- 0.963798 
+0 -- 0.0357678 
+We end!! => Final test error: 0.00125242
+**********
+SEED 2
+**********
+Iteration 1	 Training error: 0.240858
+Iteration 2	 Training error: 0.2337
+Iteration 3	 Training error: 0.232637
+Iteration 4	 Training error: 0.224852
+Iteration 5	 Training error: 0.217425
+Iteration 6	 Training error: 0.212125
+Iteration 7	 Training error: 0.20744
+Iteration 8	 Training error: 0.20285
+Iteration 9	 Training error: 0.196759
+Iteration 10	 Training error: 0.191396
+Iteration 11	 Training error: 0.18631
+Iteration 12	 Training error: 0.181287
+Iteration 13	 Training error: 0.17565
+Iteration 14	 Training error: 0.169938
+Iteration 15	 Training error: 0.164319
+Iteration 16	 Training error: 0.158668
+Iteration 17	 Training error: 0.152779
+Iteration 18	 Training error: 0.146775
+Iteration 19	 Training error: 0.140797
+Iteration 20	 Training error: 0.134821
+Iteration 21	 Training error: 0.128791
+Iteration 22	 Training error: 0.122757
+Iteration 23	 Training error: 0.1168
+Iteration 24	 Training error: 0.110937
+Iteration 25	 Training error: 0.105171
+Iteration 26	 Training error: 0.099534
+Iteration 27	 Training error: 0.094068
+Iteration 28	 Training error: 0.0887958
+Iteration 29	 Training error: 0.083728
+Iteration 30	 Training error: 0.0788791
+Iteration 31	 Training error: 0.0742656
+Iteration 32	 Training error: 0.069896
+Iteration 33	 Training error: 0.0657715
+Iteration 34	 Training error: 0.0618905
+Iteration 35	 Training error: 0.0582507
+Iteration 36	 Training error: 0.0548471
+Iteration 37	 Training error: 0.0516711
+Iteration 38	 Training error: 0.0487125
+Iteration 39	 Training error: 0.0459604
+Iteration 40	 Training error: 0.0434032
+Iteration 41	 Training error: 0.0410292
+Iteration 42	 Training error: 0.038826
+Iteration 43	 Training error: 0.0367818
+Iteration 44	 Training error: 0.0348849
+Iteration 45	 Training error: 0.0331242
+Iteration 46	 Training error: 0.0314893
+Iteration 47	 Training error: 0.0299703
+Iteration 48	 Training error: 0.0285578
+Iteration 49	 Training error: 0.0272434
+Iteration 50	 Training error: 0.026019
+Iteration 51	 Training error: 0.0248773
+Iteration 52	 Training error: 0.0238117
+Iteration 53	 Training error: 0.022816
+Iteration 54	 Training error: 0.0218846
+Iteration 55	 Training error: 0.0210122
+Iteration 56	 Training error: 0.0201943
+Iteration 57	 Training error: 0.0194266
+Iteration 58	 Training error: 0.018705
+Iteration 59	 Training error: 0.0180262
+Iteration 60	 Training error: 0.0173868
+Iteration 61	 Training error: 0.0167838
+Iteration 62	 Training error: 0.0162147
+Iteration 63	 Training error: 0.0156768
+Iteration 64	 Training error: 0.015168
+Iteration 65	 Training error: 0.0146861
+Iteration 66	 Training error: 0.0142294
+Iteration 67	 Training error: 0.013796
+Iteration 68	 Training error: 0.0133844
+Iteration 69	 Training error: 0.0129931
+Iteration 70	 Training error: 0.0126207
+Iteration 71	 Training error: 0.0122661
+Iteration 72	 Training error: 0.0119282
+Iteration 73	 Training error: 0.0116057
+Iteration 74	 Training error: 0.0112979
+Iteration 75	 Training error: 0.0110038
+Iteration 76	 Training error: 0.0107225
+Iteration 77	 Training error: 0.0104534
+Iteration 78	 Training error: 0.0101956
+Iteration 79	 Training error: 0.00994864
+Iteration 80	 Training error: 0.00971177
+Iteration 81	 Training error: 0.00948448
+Iteration 82	 Training error: 0.00926622
+Iteration 83	 Training error: 0.00905651
+Iteration 84	 Training error: 0.00885488
+Iteration 85	 Training error: 0.00866092
+Iteration 86	 Training error: 0.00847422
+Iteration 87	 Training error: 0.00829441
+Iteration 88	 Training error: 0.00812113
+Iteration 89	 Training error: 0.00795407
+Iteration 90	 Training error: 0.0077929
+Iteration 91	 Training error: 0.00763736
+Iteration 92	 Training error: 0.00748716
+Iteration 93	 Training error: 0.00734205
+Iteration 94	 Training error: 0.00720179
+Iteration 95	 Training error: 0.00706616
+Iteration 96	 Training error: 0.00693495
+Iteration 97	 Training error: 0.00680795
+Iteration 98	 Training error: 0.00668499
+Iteration 99	 Training error: 0.00656587
+Iteration 100	 Training error: 0.00645044
+Iteration 101	 Training error: 0.00633853
+Iteration 102	 Training error: 0.00623
+Iteration 103	 Training error: 0.00612471
+Iteration 104	 Training error: 0.00602251
+Iteration 105	 Training error: 0.00592329
+Iteration 106	 Training error: 0.00582691
+Iteration 107	 Training error: 0.00573328
+Iteration 108	 Training error: 0.00564227
+Iteration 109	 Training error: 0.00555379
+Iteration 110	 Training error: 0.00546774
+Iteration 111	 Training error: 0.00538402
+Iteration 112	 Training error: 0.00530255
+Iteration 113	 Training error: 0.00522324
+Iteration 114	 Training error: 0.00514601
+Iteration 115	 Training error: 0.00507079
+Iteration 116	 Training error: 0.00499749
+Iteration 117	 Training error: 0.00492606
+Iteration 118	 Training error: 0.00485643
+Iteration 119	 Training error: 0.00478853
+Iteration 120	 Training error: 0.0047223
+Iteration 121	 Training error: 0.00465768
+Iteration 122	 Training error: 0.00459463
+Iteration 123	 Training error: 0.00453308
+Iteration 124	 Training error: 0.00447298
+Iteration 125	 Training error: 0.0044143
+Iteration 126	 Training error: 0.00435697
+Iteration 127	 Training error: 0.00430096
+Iteration 128	 Training error: 0.00424622
+Iteration 129	 Training error: 0.00419272
+Iteration 130	 Training error: 0.00414041
+Iteration 131	 Training error: 0.00408926
+Iteration 132	 Training error: 0.00403922
+Iteration 133	 Training error: 0.00399028
+Iteration 134	 Training error: 0.00394238
+Iteration 135	 Training error: 0.00389551
+Iteration 136	 Training error: 0.00384962
+Iteration 137	 Training error: 0.0038047
+Iteration 138	 Training error: 0.0037607
+Iteration 139	 Training error: 0.00371762
+Iteration 140	 Training error: 0.00367541
+Iteration 141	 Training error: 0.00363405
+Iteration 142	 Training error: 0.00359352
+Iteration 143	 Training error: 0.0035538
+Iteration 144	 Training error: 0.00351486
+Iteration 145	 Training error: 0.00347668
+Iteration 146	 Training error: 0.00343924
+Iteration 147	 Training error: 0.00340252
+Iteration 148	 Training error: 0.00336649
+Iteration 149	 Training error: 0.00333115
+Iteration 150	 Training error: 0.00329648
+Iteration 151	 Training error: 0.00326244
+Iteration 152	 Training error: 0.00322904
+Iteration 153	 Training error: 0.00319625
+Iteration 154	 Training error: 0.00316405
+Iteration 155	 Training error: 0.00313243
+Iteration 156	 Training error: 0.00310138
+Iteration 157	 Training error: 0.00307088
+Iteration 158	 Training error: 0.00304092
+Iteration 159	 Training error: 0.00301148
+Iteration 160	 Training error: 0.00298255
+Iteration 161	 Training error: 0.00295412
+Iteration 162	 Training error: 0.00292617
+Iteration 163	 Training error: 0.0028987
+Iteration 164	 Training error: 0.0028717
+Iteration 165	 Training error: 0.00284514
+Iteration 166	 Training error: 0.00281903
+Iteration 167	 Training error: 0.00279334
+Iteration 168	 Training error: 0.00276808
+Iteration 169	 Training error: 0.00274323
+Iteration 170	 Training error: 0.00271878
+Iteration 171	 Training error: 0.00269472
+Iteration 172	 Training error: 0.00267104
+Iteration 173	 Training error: 0.00264774
+Iteration 174	 Training error: 0.0026248
+Iteration 175	 Training error: 0.00260222
+Iteration 176	 Training error: 0.00258
+Iteration 177	 Training error: 0.00255811
+Iteration 178	 Training error: 0.00253656
+Iteration 179	 Training error: 0.00251533
+Iteration 180	 Training error: 0.00249443
+Iteration 181	 Training error: 0.00247384
+Iteration 182	 Training error: 0.00245355
+Iteration 183	 Training error: 0.00243357
+Iteration 184	 Training error: 0.00241388
+Iteration 185	 Training error: 0.00239447
+Iteration 186	 Training error: 0.00237535
+Iteration 187	 Training error: 0.00235651
+Iteration 188	 Training error: 0.00233793
+Iteration 189	 Training error: 0.00231962
+Iteration 190	 Training error: 0.00230157
+Iteration 191	 Training error: 0.00228377
+Iteration 192	 Training error: 0.00226622
+Iteration 193	 Training error: 0.00224892
+Iteration 194	 Training error: 0.00223185
+Iteration 195	 Training error: 0.00221502
+Iteration 196	 Training error: 0.00219842
+Iteration 197	 Training error: 0.00218204
+Iteration 198	 Training error: 0.00216588
+Iteration 199	 Training error: 0.00214995
+Iteration 200	 Training error: 0.00213422
+Iteration 201	 Training error: 0.0021187
+Iteration 202	 Training error: 0.00210339
+Iteration 203	 Training error: 0.00208827
+Iteration 204	 Training error: 0.00207336
+Iteration 205	 Training error: 0.00205863
+Iteration 206	 Training error: 0.0020441
+Iteration 207	 Training error: 0.00202975
+Iteration 208	 Training error: 0.00201559
+Iteration 209	 Training error: 0.0020016
+Iteration 210	 Training error: 0.0019878
+Iteration 211	 Training error: 0.00197416
+Iteration 212	 Training error: 0.00196069
+Iteration 213	 Training error: 0.00194739
+Iteration 214	 Training error: 0.00193426
+Iteration 215	 Training error: 0.00192129
+Iteration 216	 Training error: 0.00190847
+Iteration 217	 Training error: 0.00189581
+Iteration 218	 Training error: 0.0018833
+Iteration 219	 Training error: 0.00187094
+Iteration 220	 Training error: 0.00185873
+Iteration 221	 Training error: 0.00184667
+Iteration 222	 Training error: 0.00183474
+Iteration 223	 Training error: 0.00182296
+Iteration 224	 Training error: 0.00181131
+Iteration 225	 Training error: 0.0017998
+Iteration 226	 Training error: 0.00178843
+Iteration 227	 Training error: 0.00177718
+Iteration 228	 Training error: 0.00176607
+Iteration 229	 Training error: 0.00175507
+Iteration 230	 Training error: 0.00174421
+Iteration 231	 Training error: 0.00173347
+Iteration 232	 Training error: 0.00172284
+Iteration 233	 Training error: 0.00171234
+Iteration 234	 Training error: 0.00170195
+Iteration 235	 Training error: 0.00169168
+Iteration 236	 Training error: 0.00168152
+Iteration 237	 Training error: 0.00167147
+Iteration 238	 Training error: 0.00166154
+Iteration 239	 Training error: 0.0016517
+Iteration 240	 Training error: 0.00164198
+Iteration 241	 Training error: 0.00163236
+Iteration 242	 Training error: 0.00162284
+Iteration 243	 Training error: 0.00161343
+Iteration 244	 Training error: 0.00160411
+Iteration 245	 Training error: 0.00159489
+Iteration 246	 Training error: 0.00158577
+Iteration 247	 Training error: 0.00157675
+Iteration 248	 Training error: 0.00156782
+Iteration 249	 Training error: 0.00155898
+Iteration 250	 Training error: 0.00155023
+Iteration 251	 Training error: 0.00154157
+Iteration 252	 Training error: 0.001533
+Iteration 253	 Training error: 0.00152452
+Iteration 254	 Training error: 0.00151612
+Iteration 255	 Training error: 0.00150781
+Iteration 256	 Training error: 0.00149958
+Iteration 257	 Training error: 0.00149143
+Iteration 258	 Training error: 0.00148336
+Iteration 259	 Training error: 0.00147538
+Iteration 260	 Training error: 0.00146747
+Iteration 261	 Training error: 0.00145964
+Iteration 262	 Training error: 0.00145189
+Iteration 263	 Training error: 0.00144421
+Iteration 264	 Training error: 0.0014366
+Iteration 265	 Training error: 0.00142907
+Iteration 266	 Training error: 0.00142162
+Iteration 267	 Training error: 0.00141423
+Iteration 268	 Training error: 0.00140691
+Iteration 269	 Training error: 0.00139967
+Iteration 270	 Training error: 0.00139249
+Iteration 271	 Training error: 0.00138538
+Iteration 272	 Training error: 0.00137833
+Iteration 273	 Training error: 0.00137135
+Iteration 274	 Training error: 0.00136444
+Iteration 275	 Training error: 0.00135759
+Iteration 276	 Training error: 0.0013508
+Iteration 277	 Training error: 0.00134407
+Iteration 278	 Training error: 0.00133741
+Iteration 279	 Training error: 0.00133081
+Iteration 280	 Training error: 0.00132426
+Iteration 281	 Training error: 0.00131778
+Iteration 282	 Training error: 0.00131135
+Iteration 283	 Training error: 0.00130499
+Iteration 284	 Training error: 0.00129867
+Iteration 285	 Training error: 0.00129242
+Iteration 286	 Training error: 0.00128622
+We exit because the training is not improving!!
+Iteration 1001	 Training error: 0.00128007
+NETWORK WEIGHTS
+===============
+Layer 1 weights:
+ Neuron 0: 0.647033 1.21156 -1.35333 
+ Neuron 1: -0.843943 -0.270414 -0.615366 
+ Neuron 2: 0.550556 -1.7324 0.788946 
+ Neuron 3: 0.646015 1.34675 -0.717635 
+ Neuron 4: -0.297514 -1.25234 1.28494 
+ Neuron 5: -0.542486 -0.636968 1.09102 
+ Neuron 6: 0.676805 -1.17859 0.762975 
+ Neuron 7: 0.42683 0.888943 -1.29578 
+ Neuron 8: 0.0939793 0.677407 0.910565 
+ Neuron 9: -0.0355341 0.0264604 -1.67788 
+ Neuron 10: 0.336724 0.648874 1.0661 
+ Neuron 11: 0.577447 1.15147 -1.03747 
+ Neuron 12: -0.590849 0.171874 -0.789506 
+ Neuron 13: 0.346304 -0.936404 0.00776403 
+ Neuron 14: -0.840009 -0.8693 -0.0902018 
+ Neuron 15: 0.905 1.2021 0.678857 
+ Neuron 16: 1.06259 0.787522 0.793912 
+ Neuron 17: 0.156357 -0.523206 0.655423 
+ Neuron 18: 0.445152 -0.0582316 0.54939 
+ Neuron 19: -0.245126 -1.30586 0.676736 
+ Neuron 20: 0.32354 0.395358 0.464491 
+ Neuron 21: 0.0553431 -0.594183 -0.287042 
+ Neuron 22: 0.219502 0.215364 -1.3228 
+ Neuron 23: 1.02494 -0.0516595 -0.62904 
+ Neuron 24: -0.368782 -0.292241 1.30486 
+ Neuron 25: 0.373639 -0.718134 1.36321 
+ Neuron 26: -0.450421 -0.886243 0.514368 
+ Neuron 27: -1.31848 1.34691 1.46177 
+ Neuron 28: 0.702168 0.753471 0.533417 
+ Neuron 29: 0.162078 -0.929809 0.889667 
+ Neuron 30: -0.420209 1.59526 -0.69968 
+ Neuron 31: 0.675199 -0.183965 0.901781 
+
+Layer 2 weights:
+ Neuron 0: -0.258532 -0.931681 -0.3896 -0.0662521 -0.905201 0.397098 0.903383 -0.454741 -1.07544 0.737467 0.679839 -0.226538 0.272456 -0.728658 0.315143 -0.355678 -0.322997 0.275609 -0.519203 -0.581972 -0.637906 0.846896 0.547016 -0.148481 0.159728 -0.652214 -0.30575 0.991322 -1.05997 0.643236 0.47866 0.0844343 0.802384 
+ Neuron 1: -0.63701 -0.789658 -0.848913 0.577071 -0.927431 -0.161297 0.63353 0.733287 -0.237075 -0.651586 0.367791 -0.0525324 0.798196 1.03856 0.64735 -0.0367653 -0.425412 1.07462 0.317175 -0.641604 0.571643 -0.651166 0.648639 1.06783 0.221615 0.523895 -0.984275 -0.228911 -0.128502 0.219235 -0.404146 0.538975 0.273034 
+ Neuron 2: -0.248865 0.013121 0.353054 0.590706 -0.31805 0.165472 -0.747539 0.119193 -0.659266 0.177499 -0.146108 -0.721865 -0.312071 0.765188 -0.242596 -0.304844 0.124711 0.0848663 -0.708658 0.453444 -0.314645 -0.803269 -0.434434 -0.776862 -0.684608 0.315151 0.395191 0.497735 0.909391 -0.200197 -0.184816 -0.342747 0.850396 
+ Neuron 3: -0.994896 -1.29802 -0.536046 0.486465 -0.986696 1.067 0.947329 0.766048 -0.949134 0.886952 -0.978715 -0.658287 -0.855397 -0.157275 0.433506 0.714628 0.232012 -0.0670213 -0.447103 0.541551 0.677418 -0.442131 0.818112 -0.665986 -1.12609 0.599543 -0.119801 -0.0133522 -1.02115 0.263482 -0.158495 -1.08074 0.65051 
+ Neuron 4: 0.176429 0.519735 -0.994031 -0.282364 0.19334 0.691943 0.351769 -0.00021301 -0.918307 0.660376 0.76236 0.166161 0.0521974 0.569942 -0.539736 0.929541 1.03007 -0.887627 0.300621 -0.441489 0.774883 -0.901068 -0.449306 0.198704 -0.268493 0.360929 0.203984 -0.954071 -1.13596 0.622688 0.553102 0.352766 0.0727921 
+ Neuron 5: 0.683143 -0.9203 -0.663596 0.378664 0.462913 0.48896 0.484967 0.140424 0.230525 -0.395095 -0.759974 -0.212075 0.0510872 -0.810925 -0.2911 0.0867717 0.578523 0.295376 -0.0472583 0.64934 0.86101 -0.86126 -0.608804 0.233213 0.449207 -0.531273 0.2844 0.0440372 -0.95309 -0.445905 -0.827981 0.786873 -0.345285 
+ Neuron 6: -0.562221 -0.0686627 -0.884728 1.18674 -0.571922 0.487436 0.394325 0.400689 0.297773 -0.971608 -0.881922 0.7454 -0.499509 0.249222 0.286852 0.995023 -0.779599 -0.130703 0.972357 -0.484884 0.511849 0.0445156 0.939789 0.563442 -0.726475 0.151912 1.10844 0.0113094 0.31482 0.602787 0.739332 0.411716 -0.0528781 
+ Neuron 7: 0.747047 0.654447 0.495519 0.0549328 -0.103261 -0.232522 -0.39361 -0.0638283 0.0626603 -0.665905 0.639562 -0.492843 0.612343 0.643473 -0.124156 -0.422126 0.506607 0.394543 0.931728 -0.401688 0.352365 0.726605 -0.0249404 -0.678816 0.622053 0.913611 0.51181 0.309741 0.476228 0.18759 -0.834182 0.207307 -0.143866 
+ Neuron 8: 0.576563 -0.818709 0.606697 -0.894521 -0.111052 -0.37802 0.482946 -0.0421118 -0.720387 1.11997 -0.445825 1.14014 -0.203297 0.31811 0.26691 -0.931156 0.493963 -0.738688 0.454659 0.0206974 -0.178705 0.919694 -0.524961 -0.229121 0.228725 0.942942 -0.687901 -0.564331 -0.915472 0.710915 0.228335 0.870804 0.809573 
+ Neuron 9: 0.230813 -1.06077 -0.271445 1.17395 0.385706 1.10274 -0.680062 0.820576 -0.567128 -0.916035 -0.779705 1.00695 0.347967 -0.653759 0.362683 0.58289 0.880911 -0.839566 -0.238767 0.929301 0.135928 0.432316 0.269962 -0.432978 0.815075 0.901441 0.0651138 0.527717 0.236253 -0.591975 0.478987 -1.15616 -0.294609 
+ Neuron 10: 0.810893 0.8605 0.972531 0.625429 0.923035 0.426487 -0.782232 0.930379 0.717358 -0.834596 0.407557 -0.834676 0.380278 -0.0959194 -0.859722 0.561711 0.393726 0.956115 -0.661541 -0.219319 0.109826 0.0138739 -0.460438 -0.216335 0.722218 0.870569 0.784101 -0.889823 0.0435804 0.890799 -0.43686 -0.133894 0.746173 
+ Neuron 11: -0.324009 -0.70072 0.749251 1.4525 -0.475241 0.9831 1.00312 0.27752 -0.196429 0.917552 -0.801512 0.993381 -1.17107 0.712601 0.506364 1.07871 -0.919706 -0.892384 0.406258 0.323343 0.0652098 0.929575 0.0638202 -0.599457 0.75527 0.342329 0.981887 0.816854 0.814474 -0.534006 0.698626 -1.12858 0.218931 
+ Neuron 12: 0.0246297 -0.81993 0.689704 -0.359298 0.887343 -0.412941 0.66786 0.755754 -0.119144 0.606439 0.783283 -0.277693 -0.0561373 0.787968 -0.087265 0.0607761 -0.0953813 -0.868993 0.722616 -0.194686 0.0653325 -0.722034 -0.501166 -0.85949 0.867175 -0.906045 0.772514 -0.675263 0.455917 0.962297 0.284989 -0.514055 -0.864885 
+ Neuron 13: -0.0267569 0.0220033 -1.00312 0.565548 -0.271036 0.879279 -0.484847 -0.610822 0.50678 0.18173 0.29307 0.401445 -1.00492 -0.586243 -0.716217 -0.76885 -0.803476 0.16524 0.31679 -0.557259 0.59572 0.453564 -0.701869 0.626736 0.223685 -0.322386 0.131504 0.23276 0.789849 0.633681 0.341806 -0.0981937 -0.263572 
+ Neuron 14: 0.343707 -0.677847 0.507047 0.175758 -0.170848 1.10814 -0.162168 -0.850087 0.187765 -0.877578 -0.908951 0.811542 -0.799768 -0.597902 0.888786 0.412556 0.811392 -0.596538 0.0528338 0.254754 -0.323869 -0.311978 -0.560256 0.116977 0.765769 0.749333 0.233575 0.475745 -0.0744144 -0.904595 -0.787244 -0.722885 -0.402567 
+ Neuron 15: 0.789716 0.506833 0.535077 0.663827 -0.795545 0.674442 -0.0201212 -0.744679 0.924778 -0.323373 -0.261231 -0.694902 -0.380845 -0.848584 -0.804407 -0.0225635 0.122458 0.385571 0.49907 0.737671 0.746799 -0.225853 0.580676 0.498953 1.01366 -0.114662 -0.725141 1.01529 -0.191574 -0.278483 -0.494246 -0.144083 -0.878221 
+ Neuron 16: -0.99832 -0.679533 -0.676555 0.683252 0.328579 -0.277389 0.559261 -0.817279 0.133221 0.786784 -0.310925 0.293357 0.742663 0.635993 -0.670682 0.152433 0.191023 -0.951753 -0.0838077 0.951355 0.577001 -0.756439 0.844448 -0.645373 -0.422918 0.870848 0.547354 0.32101 -0.752669 -0.726569 0.466291 -0.734872 -0.266352 
+ Neuron 17: 0.770304 0.949697 -0.854615 -0.626829 0.427769 -0.686877 0.606697 0.224234 0.0475919 -0.149422 0.108692 -0.286387 0.15045 -0.752466 0.924498 0.178231 0.118433 0.856152 -0.321478 0.353592 0.683666 0.103479 0.955586 0.490191 -0.381028 0.206668 0.779019 -0.120939 -0.442651 -0.87754 0.57385 -0.614948 -0.929174 
+ Neuron 18: 0.592054 -0.246465 0.594156 1.10994 -0.772364 -0.346391 -0.100204 0.242765 0.808385 0.501578 -0.451955 -1.23229 0.610428 0.538375 0.213022 0.544218 -1.10718 -0.832404 0.0969609 0.164133 -0.507336 -0.540462 0.943595 0.715975 -0.593834 -0.380726 -0.810604 -0.480972 -0.768329 -0.586342 -0.40369 -1.14652 0.274838 
+ Neuron 19: -0.91245 -0.949644 0.728962 -0.124196 0.109213 -0.0681298 -0.285289 -0.127003 0.304923 -0.193708 -0.545868 -0.106962 0.935104 -1.04055 0.0360904 -0.583002 0.14202 -0.614162 -0.0847868 0.808461 -0.65746 -0.440572 -0.793488 0.0738857 -0.211495 -0.192408 0.540336 0.484084 0.560045 0.549292 -0.076471 0.507155 0.651509 
+ Neuron 20: -0.359382 -0.777019 -0.248394 0.887259 -0.0642623 0.807707 0.128434 1.09115 -1.0651 0.84354 0.723898 -0.860588 -0.22054 -0.826308 0.40137 0.452519 0.0471883 0.0803665 0.904405 0.786265 0.619331 -0.127392 -0.343691 -0.955143 -0.625413 -0.717859 0.820623 1.10561 0.142056 0.0868081 0.80428 0.478621 0.685234 
+ Neuron 21: -0.606505 0.392136 -0.268878 1.03689 -0.606795 -0.340373 -0.82487 -0.702346 -0.52039 -0.642001 0.180707 -0.164293 0.666169 -0.390512 -1.01852 -0.186255 -0.578272 0.781663 -0.711757 0.37346 -0.556826 -0.518752 0.768297 -0.477956 -0.935123 0.822168 0.707067 0.258783 0.555788 0.394617 -0.106174 0.768729 -0.175829 
+ Neuron 22: 0.460178 0.90555 0.130269 -0.954696 1.00348 0.145845 -0.47323 -0.942883 -0.283007 0.435932 0.953629 0.136323 0.637752 -0.265826 0.581853 0.271619 -0.139055 -0.104469 0.576945 0.28551 -0.375527 -0.775846 0.412981 -0.338521 0.87539 -0.444876 -1.19576 0.173555 0.583087 0.701552 -1.09229 0.257446 0.427165 
+ Neuron 23: 0.245833 0.449532 0.53409 -0.343315 -0.826207 0.747365 0.249163 0.723139 0.641341 -0.481671 0.263394 -0.676828 -0.758527 -0.430629 0.302796 0.289039 -0.709434 -0.324621 -0.888454 -0.382418 -0.790272 -0.297718 -0.427838 -0.0398501 -0.273972 0.880821 -0.440044 -0.474185 0.993999 0.734817 -0.872041 0.201737 0.184152 
+ Neuron 24: 0.636634 0.844947 0.348452 0.390339 0.0991903 0.0511342 0.0229624 0.630336 -0.709881 0.359158 0.862057 -0.141284 -0.351839 0.138138 0.171333 0.350284 0.242219 0.790568 0.548949 0.94845 -0.64254 -0.505084 -0.332293 -0.75945 0.0477278 0.191071 -0.779154 -0.206208 0.306156 0.435919 0.972936 -0.0567697 0.28397 
+ Neuron 25: 0.463253 -0.365492 -0.572913 -0.843885 0.644615 -1.16513 -0.468014 -0.426042 1.17728 0.583588 0.5974 0.0755103 -0.00954616 -0.0896994 -0.731677 -0.51814 -0.497276 -0.633078 -0.251601 -0.195136 -0.287156 0.189227 0.846081 -0.659933 0.454952 -0.520728 0.197002 -0.338392 -0.49439 -0.52588 -1.11267 1.24584 -0.384323 
+ Neuron 26: -0.515862 -0.818586 -0.952823 -0.413661 -0.159452 -0.0943149 -0.580216 -0.425262 -0.963841 0.316332 0.168603 -0.150539 0.493663 0.648988 0.218064 0.865745 -0.501598 0.911765 -0.2233 0.632499 0.82659 -0.224516 -0.0358989 -0.726594 -0.802605 0.731672 -0.0299128 -0.424358 0.571659 -0.209702 0.241982 -0.994333 0.114541 
+ Neuron 27: 0.152512 -0.487183 0.988392 0.899654 -0.174441 -0.532362 1.00271 -0.819801 0.600055 -0.182834 0.760258 0.262782 0.904804 0.565716 0.769217 0.787867 -0.745609 0.347538 0.472327 0.0203888 -0.746377 0.752493 0.163027 0.874604 -0.372793 0.631867 0.560731 0.406762 -0.262021 0.639311 -0.545416 0.882713 -0.830199 
+ Neuron 28: -0.734046 0.628855 -0.112642 -0.200335 0.694951 0.143987 -0.474667 -0.465085 -0.236383 0.833728 -0.777589 -0.451123 0.394858 -0.883065 -0.448316 -0.262444 0.69214 0.728827 0.0769799 0.463899 -0.146547 -0.0708789 -1.01905 -0.704927 -0.689205 0.581073 0.352878 -0.919333 1.19953 0.141413 -0.718196 -0.709844 -0.0372817 
+ Neuron 29: 0.285927 0.283942 -0.27862 -0.545092 0.751335 0.24782 0.353116 0.46587 0.816903 0.865824 0.00198475 -0.957367 -0.340191 0.818009 0.804778 -0.611814 -0.137268 0.259103 0.287365 0.827036 0.402685 0.829592 -0.654775 -0.0513158 0.121816 -0.541643 -0.144305 -0.717102 -0.18181 0.232112 0.238604 -0.903496 -0.514524 
+ Neuron 30: 1.04237 -0.577842 -0.730201 0.571028 0.821347 0.944268 0.26266 1.0881 -0.464549 0.183038 -0.624554 -0.446348 -0.171619 -0.237566 0.502026 -0.669642 -0.912036 0.23439 0.881463 -0.908977 0.851071 -0.355906 0.212848 -1.02025 0.519758 0.633539 0.155901 -0.0974661 -0.150208 -0.0111537 0.491822 -0.535931 0.724132 
+ Neuron 31: 0.561751 1.28556 0.53729 0.0312514 0.326102 0.0647825 0.709715 -0.945676 1.10117 -0.538261 0.288559 -0.325218 1.13561 0.508273 -0.22602 0.0315503 0.176435 -0.161461 -0.45238 0.706544 -1.20418 -0.189429 0.198778 0.652062 0.701591 0.818784 -0.992162 -0.499638 0.402615 -0.110453 -0.947997 -0.00466811 -0.265538 
+
+Layer 3 weights:
+ Neuron 0: 1.05616 1.5359 1.2078 0.192046 2.95709 1.35426 0.530332 -1.21937 0.364796 1.56721 -1.49661 -0.197372 -2.45972 -0.0802741 0.610393 0.884695 1.16672 0.630767 0.574707 -1.44922 -0.62392 -1.38769 -0.83497 -0.962443 -0.233919 0.166751 1.56983 0.866447 0.336701 -1.24537 -0.209344 -1.31124 -1.54544 
+
+Desired output Vs Obtained output (test)
+=========================================
+1 -- 0.963972 
+0 -- 0.0350502 
+1 -- 0.963075 
+0 -- 0.0350753 
+We end!! => Final test error: 0.00128007
+**********
+SEED 3
+**********
+Iteration 1	 Training error: 0.29358
+Iteration 2	 Training error: 0.251839
+Iteration 3	 Training error: 0.278622
+Iteration 4	 Training error: 0.247482
+Iteration 5	 Training error: 0.24785
+Iteration 6	 Training error: 0.249647
+Iteration 7	 Training error: 0.234407
+Iteration 8	 Training error: 0.23395
+Iteration 9	 Training error: 0.228716
+Iteration 10	 Training error: 0.225937
+Iteration 11	 Training error: 0.223603
+Iteration 12	 Training error: 0.217906
+Iteration 13	 Training error: 0.214082
+Iteration 14	 Training error: 0.210002
+Iteration 15	 Training error: 0.20633
+Iteration 16	 Training error: 0.202072
+Iteration 17	 Training error: 0.197062
+Iteration 18	 Training error: 0.192219
+Iteration 19	 Training error: 0.187331
+Iteration 20	 Training error: 0.182333
+Iteration 21	 Training error: 0.176899
+Iteration 22	 Training error: 0.171212
+Iteration 23	 Training error: 0.16546
+Iteration 24	 Training error: 0.159615
+Iteration 25	 Training error: 0.153591
+Iteration 26	 Training error: 0.147376
+Iteration 27	 Training error: 0.141084
+Iteration 28	 Training error: 0.134769
+Iteration 29	 Training error: 0.12843
+Iteration 30	 Training error: 0.122068
+Iteration 31	 Training error: 0.11574
+Iteration 32	 Training error: 0.109505
+Iteration 33	 Training error: 0.103394
+Iteration 34	 Training error: 0.0974279
+Iteration 35	 Training error: 0.0916395
+Iteration 36	 Training error: 0.0860655
+Iteration 37	 Training error: 0.0807318
+Iteration 38	 Training error: 0.0756537
+Iteration 39	 Training error: 0.0708418
+Iteration 40	 Training error: 0.0663058
+Iteration 41	 Training error: 0.0620501
+Iteration 42	 Training error: 0.058073
+Iteration 43	 Training error: 0.0543682
+Iteration 44	 Training error: 0.0509266
+Iteration 45	 Training error: 0.0477374
+Iteration 46	 Training error: 0.0447879
+Iteration 47	 Training error: 0.0420641
+Iteration 48	 Training error: 0.039551
+Iteration 49	 Training error: 0.0372337
+Iteration 50	 Training error: 0.0350974
+Iteration 51	 Training error: 0.0331281
+Iteration 52	 Training error: 0.0313121
+Iteration 53	 Training error: 0.0296365
+Iteration 54	 Training error: 0.0280894
+Iteration 55	 Training error: 0.0266596
+Iteration 56	 Training error: 0.0253369
+Iteration 57	 Training error: 0.0241118
+Iteration 58	 Training error: 0.0229758
+Iteration 59	 Training error: 0.0219212
+Iteration 60	 Training error: 0.0209407
+Iteration 61	 Training error: 0.020028
+Iteration 62	 Training error: 0.0191772
+Iteration 63	 Training error: 0.018383
+Iteration 64	 Training error: 0.0176408
+Iteration 65	 Training error: 0.0169461
+Iteration 66	 Training error: 0.016295
+Iteration 67	 Training error: 0.0156841
+Iteration 68	 Training error: 0.0151101
+Iteration 69	 Training error: 0.01457
+Iteration 70	 Training error: 0.0140614
+Iteration 71	 Training error: 0.0135817
+Iteration 72	 Training error: 0.0131288
+Iteration 73	 Training error: 0.0127008
+Iteration 74	 Training error: 0.0122957
+Iteration 75	 Training error: 0.011912
+Iteration 76	 Training error: 0.0115482
+Iteration 77	 Training error: 0.0112029
+Iteration 78	 Training error: 0.0108748
+Iteration 79	 Training error: 0.0105627
+Iteration 80	 Training error: 0.0102657
+Iteration 81	 Training error: 0.00998266
+Iteration 82	 Training error: 0.00971279
+Iteration 83	 Training error: 0.00945522
+Iteration 84	 Training error: 0.0092092
+Iteration 85	 Training error: 0.00897402
+Iteration 86	 Training error: 0.00874904
+Iteration 87	 Training error: 0.00853364
+Iteration 88	 Training error: 0.00832727
+Iteration 89	 Training error: 0.00812941
+Iteration 90	 Training error: 0.00793958
+Iteration 91	 Training error: 0.00775734
+Iteration 92	 Training error: 0.00758226
+Iteration 93	 Training error: 0.00741396
+Iteration 94	 Training error: 0.00725209
+Iteration 95	 Training error: 0.00709629
+Iteration 96	 Training error: 0.00694626
+Iteration 97	 Training error: 0.0068017
+Iteration 98	 Training error: 0.00666233
+Iteration 99	 Training error: 0.0065279
+Iteration 100	 Training error: 0.00639817
+Iteration 101	 Training error: 0.00627291
+Iteration 102	 Training error: 0.0061519
+Iteration 103	 Training error: 0.00603494
+Iteration 104	 Training error: 0.00592185
+Iteration 105	 Training error: 0.00581245
+Iteration 106	 Training error: 0.00570656
+Iteration 107	 Training error: 0.00560404
+Iteration 108	 Training error: 0.00550474
+Iteration 109	 Training error: 0.0054085
+Iteration 110	 Training error: 0.00531521
+Iteration 111	 Training error: 0.00522474
+Iteration 112	 Training error: 0.00513696
+Iteration 113	 Training error: 0.00505176
+Iteration 114	 Training error: 0.00496904
+Iteration 115	 Training error: 0.0048887
+Iteration 116	 Training error: 0.00481064
+Iteration 117	 Training error: 0.00473478
+Iteration 118	 Training error: 0.00466101
+Iteration 119	 Training error: 0.00458927
+Iteration 120	 Training error: 0.00451948
+Iteration 121	 Training error: 0.00445155
+Iteration 122	 Training error: 0.00438543
+Iteration 123	 Training error: 0.00432104
+Iteration 124	 Training error: 0.00425832
+Iteration 125	 Training error: 0.00419721
+Iteration 126	 Training error: 0.00413765
+Iteration 127	 Training error: 0.00407959
+Iteration 128	 Training error: 0.00402296
+Iteration 129	 Training error: 0.00396773
+Iteration 130	 Training error: 0.00391385
+Iteration 131	 Training error: 0.00386126
+Iteration 132	 Training error: 0.00380992
+Iteration 133	 Training error: 0.0037598
+Iteration 134	 Training error: 0.00371085
+Iteration 135	 Training error: 0.00366303
+Iteration 136	 Training error: 0.00361631
+Iteration 137	 Training error: 0.00357064
+Iteration 138	 Training error: 0.00352601
+Iteration 139	 Training error: 0.00348236
+Iteration 140	 Training error: 0.00343968
+Iteration 141	 Training error: 0.00339794
+Iteration 142	 Training error: 0.00335709
+Iteration 143	 Training error: 0.00331712
+Iteration 144	 Training error: 0.003278
+Iteration 145	 Training error: 0.00323971
+Iteration 146	 Training error: 0.00320221
+Iteration 147	 Training error: 0.00316549
+Iteration 148	 Training error: 0.00312952
+Iteration 149	 Training error: 0.00309428
+Iteration 150	 Training error: 0.00305975
+Iteration 151	 Training error: 0.00302592
+Iteration 152	 Training error: 0.00299275
+Iteration 153	 Training error: 0.00296023
+Iteration 154	 Training error: 0.00292835
+Iteration 155	 Training error: 0.00289708
+Iteration 156	 Training error: 0.00286641
+Iteration 157	 Training error: 0.00283632
+Iteration 158	 Training error: 0.0028068
+Iteration 159	 Training error: 0.00277783
+Iteration 160	 Training error: 0.0027494
+Iteration 161	 Training error: 0.00272149
+Iteration 162	 Training error: 0.00269409
+Iteration 163	 Training error: 0.00266719
+Iteration 164	 Training error: 0.00264077
+Iteration 165	 Training error: 0.00261482
+Iteration 166	 Training error: 0.00258933
+Iteration 167	 Training error: 0.00256428
+Iteration 168	 Training error: 0.00253968
+Iteration 169	 Training error: 0.00251549
+Iteration 170	 Training error: 0.00249173
+Iteration 171	 Training error: 0.00246836
+Iteration 172	 Training error: 0.0024454
+Iteration 173	 Training error: 0.00242281
+Iteration 174	 Training error: 0.00240061
+Iteration 175	 Training error: 0.00237877
+Iteration 176	 Training error: 0.00235729
+Iteration 177	 Training error: 0.00233616
+Iteration 178	 Training error: 0.00231537
+Iteration 179	 Training error: 0.00229491
+Iteration 180	 Training error: 0.00227478
+Iteration 181	 Training error: 0.00225498
+Iteration 182	 Training error: 0.00223548
+Iteration 183	 Training error: 0.00221629
+Iteration 184	 Training error: 0.00219739
+Iteration 185	 Training error: 0.00217879
+Iteration 186	 Training error: 0.00216047
+Iteration 187	 Training error: 0.00214243
+Iteration 188	 Training error: 0.00212467
+Iteration 189	 Training error: 0.00210717
+Iteration 190	 Training error: 0.00208993
+Iteration 191	 Training error: 0.00207294
+Iteration 192	 Training error: 0.00205621
+Iteration 193	 Training error: 0.00203972
+Iteration 194	 Training error: 0.00202347
+Iteration 195	 Training error: 0.00200746
+Iteration 196	 Training error: 0.00199168
+Iteration 197	 Training error: 0.00197612
+Iteration 198	 Training error: 0.00196078
+Iteration 199	 Training error: 0.00194566
+Iteration 200	 Training error: 0.00193075
+Iteration 201	 Training error: 0.00191604
+Iteration 202	 Training error: 0.00190154
+Iteration 203	 Training error: 0.00188724
+Iteration 204	 Training error: 0.00187314
+Iteration 205	 Training error: 0.00185923
+Iteration 206	 Training error: 0.0018455
+Iteration 207	 Training error: 0.00183196
+Iteration 208	 Training error: 0.0018186
+Iteration 209	 Training error: 0.00180542
+Iteration 210	 Training error: 0.00179241
+Iteration 211	 Training error: 0.00177957
+Iteration 212	 Training error: 0.00176689
+Iteration 213	 Training error: 0.00175439
+Iteration 214	 Training error: 0.00174204
+Iteration 215	 Training error: 0.00172985
+Iteration 216	 Training error: 0.00171782
+Iteration 217	 Training error: 0.00170594
+Iteration 218	 Training error: 0.00169421
+Iteration 219	 Training error: 0.00168262
+Iteration 220	 Training error: 0.00167119
+Iteration 221	 Training error: 0.00165989
+Iteration 222	 Training error: 0.00164873
+Iteration 223	 Training error: 0.00163771
+Iteration 224	 Training error: 0.00162682
+Iteration 225	 Training error: 0.00161607
+Iteration 226	 Training error: 0.00160544
+Iteration 227	 Training error: 0.00159494
+Iteration 228	 Training error: 0.00158457
+Iteration 229	 Training error: 0.00157432
+Iteration 230	 Training error: 0.00156419
+Iteration 231	 Training error: 0.00155418
+Iteration 232	 Training error: 0.00154429
+Iteration 233	 Training error: 0.00153451
+Iteration 234	 Training error: 0.00152485
+Iteration 235	 Training error: 0.00151529
+Iteration 236	 Training error: 0.00150585
+Iteration 237	 Training error: 0.00149651
+Iteration 238	 Training error: 0.00148728
+Iteration 239	 Training error: 0.00147815
+Iteration 240	 Training error: 0.00146913
+Iteration 241	 Training error: 0.00146021
+Iteration 242	 Training error: 0.00145138
+Iteration 243	 Training error: 0.00144266
+Iteration 244	 Training error: 0.00143402
+Iteration 245	 Training error: 0.00142549
+Iteration 246	 Training error: 0.00141704
+Iteration 247	 Training error: 0.00140869
+Iteration 248	 Training error: 0.00140043
+Iteration 249	 Training error: 0.00139226
+Iteration 250	 Training error: 0.00138417
+Iteration 251	 Training error: 0.00137617
+Iteration 252	 Training error: 0.00136826
+Iteration 253	 Training error: 0.00136043
+Iteration 254	 Training error: 0.00135268
+Iteration 255	 Training error: 0.00134501
+Iteration 256	 Training error: 0.00133742
+Iteration 257	 Training error: 0.00132991
+Iteration 258	 Training error: 0.00132247
+Iteration 259	 Training error: 0.00131512
+Iteration 260	 Training error: 0.00130783
+Iteration 261	 Training error: 0.00130063
+Iteration 262	 Training error: 0.00129349
+Iteration 263	 Training error: 0.00128643
+Iteration 264	 Training error: 0.00127944
+Iteration 265	 Training error: 0.00127251
+Iteration 266	 Training error: 0.00126566
+Iteration 267	 Training error: 0.00125887
+Iteration 268	 Training error: 0.00125215
+Iteration 269	 Training error: 0.0012455
+Iteration 270	 Training error: 0.00123891
+Iteration 271	 Training error: 0.00123238
+Iteration 272	 Training error: 0.00122592
+Iteration 273	 Training error: 0.00121952
+Iteration 274	 Training error: 0.00121318
+Iteration 275	 Training error: 0.00120691
+Iteration 276	 Training error: 0.00120069
+Iteration 277	 Training error: 0.00119453
+Iteration 278	 Training error: 0.00118843
+Iteration 279	 Training error: 0.00118238
+Iteration 280	 Training error: 0.00117639
+We exit because the training is not improving!!
+Iteration 1001	 Training error: 0.00117046
+NETWORK WEIGHTS
+===============
+Layer 1 weights:
+ Neuron 0: 0.279821 -0.690253 -0.748626 
+ Neuron 1: 0.173832 -0.543463 -0.286833 
+ Neuron 2: 0.572015 1.16592 0.82388 
+ Neuron 3: -1.64524 -1.73958 -1.7976 
+ Neuron 4: -0.543132 0.46751 1.48221 
+ Neuron 5: 0.582087 -1.30777 -0.699327 
+ Neuron 6: -1.20259 -1.00038 -1.34802 
+ Neuron 7: -0.671883 -1.45265 0.854793 
+ Neuron 8: -1.04592 1.15668 1.30341 
+ Neuron 9: 0.428464 -0.81565 1.4072 
+ Neuron 10: 0.297446 0.347335 -1.58065 
+ Neuron 11: -0.592861 -0.561267 0.579293 
+ Neuron 12: -0.201075 0.682031 -0.124358 
+ Neuron 13: -0.449584 -1.12597 -0.71705 
+ Neuron 14: 0.683259 -0.931294 0.794439 
+ Neuron 15: 1.03531 -1.07631 1.32666 
+ Neuron 16: 1.00217 -1.35445 -1.20658 
+ Neuron 17: -0.938002 -0.116194 -0.0476346 
+ Neuron 18: 0.153058 0.380047 -0.993371 
+ Neuron 19: -0.580505 -1.23947 0.322076 
+ Neuron 20: -0.64164 0.788891 -0.467854 
+ Neuron 21: -0.655468 -1.54499 -0.185311 
+ Neuron 22: 0.109845 0.487832 -1.00183 
+ Neuron 23: 0.457112 -0.39253 -0.264083 
+ Neuron 24: -0.95061 -0.837146 0.222268 
+ Neuron 25: 0.840986 1.06295 -0.741809 
+ Neuron 26: 0.591007 0.604541 0.0989464 
+ Neuron 27: -0.76355 0.923282 1.10751 
+ Neuron 28: -0.0173989 -0.632087 0.448859 
+ Neuron 29: 0.486845 0.0424606 0.863906 
+ Neuron 30: -0.616725 0.687596 -0.618339 
+ Neuron 31: -0.0878845 0.965452 -0.308816 
+
+Layer 2 weights:
+ Neuron 0: 0.698231 -0.721533 0.58475 -0.810997 0.973747 -0.142336 -0.383672 0.863759 0.174979 0.641778 0.764227 -0.414963 -0.536982 0.0180523 -0.858036 0.624986 0.517524 0.38369 0.366702 -0.869807 -0.776481 -0.732409 0.807732 0.034194 0.558979 -0.801229 -0.856216 -0.469821 0.214764 0.59477 0.620753 -0.201847 0.837184 
+ Neuron 1: 0.183347 0.0896275 0.734556 -1.04106 1.04243 0.86896 0.078544 0.457493 0.418116 1.05704 1.1501 -0.75434 -0.879605 0.258583 0.87578 0.861091 0.11737 -1.07203 0.827276 0.0864797 0.949592 -0.180697 0.0499865 -1.11727 0.17537 0.625879 0.0254073 -0.214244 0.381495 -0.880394 -0.133043 -0.612167 0.109035 
+ Neuron 2: -0.230499 -0.354847 0.249863 -0.641567 0.964148 -0.357108 0.768216 0.887032 -0.419897 -0.705889 0.84528 -0.807541 -0.911625 0.549149 -0.00463351 -0.752012 0.430919 -0.80637 -0.87266 -0.479132 0.152243 -0.804366 0.792748 -0.166292 0.435803 -0.337369 1.08407 0.490194 0.530021 -0.479732 -0.278092 -0.783091 0.116663 
+ Neuron 3: 0.873196 -0.433888 -0.156808 -0.471631 -0.704018 -0.406288 0.122117 -0.470232 -0.565603 0.161943 -0.389694 0.927177 -0.949901 -0.201097 0.299896 -0.773488 -0.101463 0.715813 0.363571 0.0635108 0.45345 -0.906222 -0.575062 -0.914349 -0.938761 0.86898 0.578384 -0.444194 -0.424255 0.761734 0.628471 -0.551913 -0.672956 
+ Neuron 4: -0.496246 0.0225189 -0.308022 -0.0015823 -0.774223 0.137867 0.523422 0.362822 0.782082 0.439382 0.31022 -0.330561 -0.249459 0.550103 0.567863 -0.53024 -0.0608657 -0.442415 0.919249 0.054369 -0.0127441 0.96961 0.128975 -0.11846 0.617651 0.661552 0.442775 0.331179 0.255664 0.871558 0.654799 0.74052 -0.169549 
+ Neuron 5: -0.71802 -0.205765 -0.061864 0.431798 -0.666816 -0.808568 0.206057 0.751304 0.49249 0.820159 -0.577229 0.0968888 0.266749 -0.105109 0.98234 0.80844 -0.223601 -0.053078 -0.215002 -0.217919 -0.974373 0.614145 -0.670173 0.688531 0.0215685 0.655845 -0.0436331 -0.131992 0.32775 -0.346013 0.685373 0.614202 0.469365 
+ Neuron 6: -0.274503 0.0437954 0.739454 0.0222631 -0.879737 0.544011 -0.652798 -0.982743 0.887763 0.494607 0.375327 -0.157429 0.379981 0.297761 0.486465 -0.672436 0.922115 -0.623777 -0.586857 0.63948 -0.3485 -0.796266 -0.483389 -0.613668 0.0502035 0.445552 0.774423 0.793464 0.235591 0.294228 0.222105 0.882161 -0.53597 
+ Neuron 7: -0.144163 -0.380441 -0.410675 -0.562794 -0.14619 -0.193512 -0.669593 -0.693781 -0.783025 0.0688048 0.92795 0.112465 -0.257449 -0.862755 0.208517 0.119523 -0.357355 -0.0829043 0.755219 -0.424283 0.5565 -0.898347 0.71664 -0.135308 0.757827 0.414551 -0.9768 0.0807021 -0.461893 1.01212 0.508554 0.406029 -0.418851 
+ Neuron 8: -0.718018 0.924337 0.714268 0.0884453 -1.09245 -0.873208 0.172124 0.170198 1.05564 -0.753354 -0.976984 -0.803854 0.667865 0.20079 -0.303721 -0.511246 -0.21526 0.726006 -0.94733 0.104134 0.259119 0.17234 -0.167196 -0.321017 0.270138 1.00326 0.205309 0.293792 0.39797 -0.311666 0.920742 0.693928 -0.416969 
+ Neuron 9: 0.54361 -0.478815 -0.333447 0.651819 0.500687 0.970367 0.639417 0.817136 1.01175 0.749105 0.525517 0.0190357 -0.422591 0.975976 0.951671 -0.907366 -0.9255 0.0205354 0.252847 0.0240928 0.877825 0.849011 -0.744606 0.815671 0.0421169 0.420742 0.274859 0.678707 0.230292 -0.0699162 -0.812524 -0.280357 0.377992 
+ Neuron 10: -0.209231 -0.663757 -0.126089 -0.273511 0.917691 -0.298419 -0.326562 0.674204 -0.838045 0.716325 -0.782061 -0.8577 0.650031 -0.749083 -0.846159 -0.386903 0.490162 0.185303 -0.558135 0.348331 0.398695 -0.742841 -0.624512 -0.211022 0.539562 -0.962782 -0.995228 -0.572333 -0.819232 -0.277949 0.804304 -0.0253709 0.0584284 
+ Neuron 11: -0.291663 0.740357 0.0212269 0.347952 -0.541484 -0.336003 0.571548 -0.861817 -0.0864479 0.69118 0.775675 0.161194 0.878644 -0.655795 -0.302534 0.0833643 -0.134349 0.990724 -0.554944 0.0750451 -0.617137 0.181341 -0.346036 -0.58941 0.247224 0.0604019 -0.42283 0.945857 -0.151517 0.568325 0.0174355 0.51387 0.237174 
+ Neuron 12: 0.980754 -0.104758 0.621749 -0.369195 -0.568135 0.68233 0.52184 -0.870523 0.43829 -0.372704 0.94022 0.825646 0.255178 0.00304922 -0.393454 0.203725 0.390959 0.673395 0.573301 -0.351723 -0.748376 0.968246 0.851774 0.298078 -0.474281 0.798493 -0.882542 -0.941777 -0.216363 0.613616 0.28857 -0.204074 -0.483437 
+ Neuron 13: -0.128844 0.390816 -0.085036 -0.405102 -0.025419 0.0761794 -0.990124 0.591639 -0.00809074 0.909716 -0.165453 -0.991607 -0.541326 -0.943067 0.434655 -0.864308 0.650266 -0.994993 -0.608828 0.57565 0.906391 0.66318 -0.904953 0.717532 0.766001 -0.845041 -0.455304 0.398781 0.502036 0.312175 0.910605 -0.628166 -0.246215 
+ Neuron 14: -0.186641 -0.0418866 0.649673 0.922818 0.116325 0.369866 -0.0957989 -0.068237 -0.847508 0.0524278 0.514821 -0.896413 -0.546114 0.507765 0.855935 -0.386662 1.08913 0.354825 -0.539725 0.58786 0.582737 -0.87406 0.490628 0.662841 -0.30039 -0.100465 0.170051 -0.938445 -0.0884638 0.621594 -0.123539 0.658717 -0.420262 
+ Neuron 15: -0.599037 0.546461 0.620096 0.865642 -0.624367 -0.603534 -1.09023 0.578978 -1.1783 -0.900155 -1.30254 0.821961 -1.07495 -0.229707 0.480624 0.128271 -0.369589 0.33994 0.0982703 0.447978 -0.377082 0.119081 -1.12035 0.84495 -0.912107 -0.905467 -0.372322 0.73847 -0.0937038 -0.898307 -0.79543 0.805709 1.05535 
+ Neuron 16: -1.09776 0.710084 -0.289913 -0.651686 1.08374 -0.997882 0.00612353 1.1708 -0.580278 -0.572173 -1.12775 0.170091 -0.645824 0.447093 -0.486697 0.706843 -0.261578 0.658526 -0.355107 0.695136 0.836441 -0.761187 1.03576 -0.890031 -0.00973854 0.691473 0.0601958 0.113488 -1.17851 -0.0987672 0.107651 -0.886086 -0.592296 
+ Neuron 17: -0.77781 0.150941 -0.557077 -0.668109 1.30506 -0.842622 -0.24598 -0.0618254 -0.90072 1.0215 -0.0978667 1.38602 -0.899629 0.0334433 -0.128563 0.719826 0.43699 -0.583547 0.643188 1.21612 -0.824629 0.793799 -0.0667124 1.23371 0.051841 -0.703637 1.38072 1.00261 0.758361 -0.811002 -0.543076 0.864958 0.463753 
+ Neuron 18: -0.187403 -0.89278 0.331729 -0.0308168 -0.27641 0.757158 0.374609 -0.326109 -0.0587491 0.0316978 -0.374891 0.932283 0.847952 -0.386775 0.262189 -0.861559 -1.09058 0.329592 -0.435353 0.837994 -0.913122 -0.402277 -0.443927 -0.462431 -0.443404 -0.608402 -0.860638 -0.28897 -0.328823 0.759222 0.881067 0.637962 0.841289 
+ Neuron 19: 0.129503 -0.486995 -0.463124 0.02713 0.741205 0.16007 0.97953 -0.118873 0.916876 0.730382 -0.277041 -0.582346 -0.0243869 -0.0258769 -0.508893 -0.889775 0.502277 -0.798488 -0.80861 0.95971 -0.24883 -0.415294 -0.588477 0.130722 -0.350771 0.0650665 0.946711 -0.59396 -0.0467544 0.506412 -0.824411 -0.908695 -0.985386 
+ Neuron 20: -0.383383 0.0831955 0.734174 0.775154 0.142227 -0.405918 0.720097 -0.144801 0.314678 -0.806805 0.743304 -0.663502 -0.321171 0.868267 0.866921 -0.138551 -0.923206 0.726528 0.632451 -0.340346 -0.81687 -0.278647 0.334317 0.255568 -0.313665 0.734116 -0.798835 -0.832346 0.906502 -0.711959 -0.819867 -0.395731 0.405677 
+ Neuron 21: -0.919057 -0.408423 -0.400427 -0.30568 -0.744507 0.432667 -0.823515 -0.535622 0.376318 -0.709915 0.379113 -0.0114768 -0.691407 -0.91392 0.250046 -0.859052 0.899964 1.06186 -0.746452 -0.487474 0.388059 0.475912 0.402769 -0.0400656 0.784749 0.613898 -0.179962 -0.90358 0.755782 0.658798 0.632142 0.774676 -0.971768 
+ Neuron 22: -0.765582 -0.73847 -0.786424 0.855142 -0.686997 0.328294 -0.644477 -0.322263 -0.974396 1.20536 0.286604 -0.852075 -0.0664755 0.155644 -1.17635 0.0301227 0.52675 -0.753288 -0.925535 -0.258814 0.761748 0.114221 -0.619111 0.273437 -1.04853 -0.426116 0.391839 0.755598 -0.324516 0.0100809 0.856908 -0.67208 0.593602 
+ Neuron 23: -0.907208 0.831075 0.933836 0.0157558 -0.700933 -0.116938 0.178676 -0.936921 1.03139 0.252698 0.374133 -0.338373 0.44987 -1.0506 -0.856498 1.10457 -0.722674 0.105449 0.830012 0.100093 0.693674 0.175697 0.307247 -0.90631 -0.562928 -0.143899 -0.73011 0.434842 -0.577989 -0.167334 -0.00995494 -0.632251 -0.566844 
+ Neuron 24: -0.340819 0.247388 -0.15472 0.528701 -0.86339 -0.0239367 0.250918 0.542106 -0.86849 -0.951618 -0.218501 -0.742855 -0.784947 -0.0642387 -0.776822 0.0395156 -0.543899 0.563118 -0.253899 0.960303 -0.342205 0.0609431 -0.761633 0.540614 0.30932 0.717222 0.891146 -0.95741 -0.468905 -0.780573 -0.546719 0.455494 0.665837 
+ Neuron 25: 0.555831 -0.159028 0.859092 -0.0751218 -1.10437 0.959532 -0.243079 -0.885794 -0.279895 0.23753 -0.0188429 0.227716 0.502669 0.972932 -0.975484 0.185064 -0.0695718 -0.857041 0.764307 0.582333 -0.379013 0.328847 0.0129242 -0.782146 0.172909 0.161388 0.00730151 0.693985 0.961305 -0.443883 0.431726 0.193789 0.47726 
+ Neuron 26: 0.258947 0.85843 0.738494 -0.160762 -0.378355 -0.957623 0.615643 0.719633 -0.094443 -0.0954964 0.196789 -0.223171 0.302572 -0.815545 0.603609 0.488331 -0.987819 0.432112 -0.928032 0.34495 -0.524178 -0.551882 -0.327294 0.593881 0.543611 -0.764308 0.246342 0.980293 0.331372 -0.451877 0.431177 -0.34931 -0.742917 
+ Neuron 27: -0.0428536 0.62027 -0.0223414 -0.0746187 0.0252364 -0.695413 1.19969 -0.937864 0.873872 -0.577336 0.0942729 0.988684 -0.658554 -0.373179 1.0911 0.476084 -0.415538 0.567343 -0.99515 0.225111 1.0102 0.535424 -0.142407 -0.86444 -0.124724 -0.208363 0.307605 0.202031 -1.19534 -0.856189 0.485772 0.218928 0.536864 
+ Neuron 28: -0.596842 -0.584971 -0.391732 0.12905 -0.774301 -0.268531 0.0405936 0.026404 1.18928 -0.253187 0.719837 -0.707838 -0.0137322 -0.00113238 0.388742 -0.685035 0.252719 -0.19773 -0.88455 -0.486816 0.606244 -0.87782 0.715139 -1.0424 0.650169 0.0753758 -1.00246 0.79988 -0.436572 0.671975 0.641635 0.0911675 -1.12586 
+ Neuron 29: -0.654257 -0.599222 -0.467463 0.0696613 0.330045 0.798159 -0.00470758 -0.712277 0.347491 0.723076 0.232632 -0.44887 0.184405 0.50403 0.72482 0.897228 0.645214 -0.484564 0.364563 0.931562 -0.841834 0.580825 0.697309 0.190836 0.920242 0.669255 0.888772 0.557827 0.338079 0.113952 0.634395 0.670089 0.545504 
+ Neuron 30: -1.00804 -0.349177 -0.148217 0.736344 0.878803 0.106054 0.205633 0.501239 -0.646904 0.821271 -0.483321 0.909233 0.553429 -0.59336 0.643884 -0.906899 0.859003 0.373164 -0.723021 0.384332 0.182905 0.379295 0.379507 -0.140034 0.293312 -0.11876 -0.842173 -0.644772 -0.511611 0.821746 -1.11524 -0.380235 -0.50784 
+ Neuron 31: -0.118321 -0.402941 -0.709442 -1.00291 1.28796 0.759455 -0.633859 1.00705 -0.829254 -0.331671 0.403585 -0.0183646 -0.998499 0.549668 -0.163929 0.625093 0.98552 -1.08794 -0.196594 0.410045 0.430227 0.626896 -0.249542 -0.544012 0.931052 0.205691 0.101269 0.826586 0.429837 0.604553 -0.608764 -0.830795 -0.689754 
+
+Layer 3 weights:
+ Neuron 0: 0.00803609 -1.13117 -1.66718 -0.869374 0.127479 -0.595155 -0.1676 0.622044 0.719922 1.46438 0.542639 0.0459621 0.0258997 0.0641163 -0.483219 -0.514476 2.0381 -1.73199 -2.40852 0.885385 -0.0794275 -0.0792015 0.923407 -2.0519 1.39189 1.21066 1.39853 0.559802 1.59663 1.73082 0.674311 -0.865118 -1.74782 
+
+Desired output Vs Obtained output (test)
+=========================================
+1 -- 0.965959 
+0 -- 0.0340482 
+1 -- 0.965363 
+0 -- 0.0341178 
+We end!! => Final test error: 0.00117046
+**********
+SEED 4
+**********
+Iteration 1	 Training error: 0.274438
+Iteration 2	 Training error: 0.260063
+Iteration 3	 Training error: 0.267816
+Iteration 4	 Training error: 0.257193
+Iteration 5	 Training error: 0.249266
+Iteration 6	 Training error: 0.24732
+Iteration 7	 Training error: 0.24139
+Iteration 8	 Training error: 0.238866
+Iteration 9	 Training error: 0.235655
+Iteration 10	 Training error: 0.23086
+Iteration 11	 Training error: 0.227468
+Iteration 12	 Training error: 0.224141
+Iteration 13	 Training error: 0.221165
+Iteration 14	 Training error: 0.218059
+Iteration 15	 Training error: 0.214417
+Iteration 16	 Training error: 0.21086
+Iteration 17	 Training error: 0.207361
+Iteration 18	 Training error: 0.203843
+Iteration 19	 Training error: 0.200134
+Iteration 20	 Training error: 0.196154
+Iteration 21	 Training error: 0.192052
+Iteration 22	 Training error: 0.187859
+Iteration 23	 Training error: 0.183535
+Iteration 24	 Training error: 0.179013
+Iteration 25	 Training error: 0.174287
+Iteration 26	 Training error: 0.169407
+Iteration 27	 Training error: 0.164394
+Iteration 28	 Training error: 0.159236
+Iteration 29	 Training error: 0.153925
+Iteration 30	 Training error: 0.148482
+Iteration 31	 Training error: 0.142943
+Iteration 32	 Training error: 0.137331
+Iteration 33	 Training error: 0.131662
+Iteration 34	 Training error: 0.12596
+Iteration 35	 Training error: 0.120256
+Iteration 36	 Training error: 0.114586
+Iteration 37	 Training error: 0.108978
+Iteration 38	 Training error: 0.103459
+Iteration 39	 Training error: 0.0980559
+Iteration 40	 Training error: 0.0927964
+Iteration 41	 Training error: 0.0877044
+Iteration 42	 Training error: 0.0827992
+Iteration 43	 Training error: 0.0780968
+Iteration 44	 Training error: 0.0736102
+Iteration 45	 Training error: 0.069349
+Iteration 46	 Training error: 0.0653188
+Iteration 47	 Training error: 0.0615216
+Iteration 48	 Training error: 0.0579559
+Iteration 49	 Training error: 0.0546179
+Iteration 50	 Training error: 0.0515012
+Iteration 51	 Training error: 0.0485972
+Iteration 52	 Training error: 0.045896
+Iteration 53	 Training error: 0.0433865
+Iteration 54	 Training error: 0.0410571
+Iteration 55	 Training error: 0.0388957
+Iteration 56	 Training error: 0.0368906
+Iteration 57	 Training error: 0.0350301
+Iteration 58	 Training error: 0.033303
+Iteration 59	 Training error: 0.0316988
+Iteration 60	 Training error: 0.0302075
+Iteration 61	 Training error: 0.02882
+Iteration 62	 Training error: 0.0275277
+Iteration 63	 Training error: 0.0263227
+Iteration 64	 Training error: 0.0251979
+Iteration 65	 Training error: 0.0241467
+Iteration 66	 Training error: 0.0231631
+Iteration 67	 Training error: 0.0222416
+Iteration 68	 Training error: 0.0213774
+Iteration 69	 Training error: 0.0205658
+Iteration 70	 Training error: 0.0198028
+Iteration 71	 Training error: 0.0190846
+Iteration 72	 Training error: 0.0184079
+Iteration 73	 Training error: 0.0177695
+Iteration 74	 Training error: 0.0171666
+Iteration 75	 Training error: 0.0165966
+Iteration 76	 Training error: 0.0160572
+Iteration 77	 Training error: 0.0155462
+Iteration 78	 Training error: 0.0150616
+Iteration 79	 Training error: 0.0146016
+Iteration 80	 Training error: 0.0141646
+Iteration 81	 Training error: 0.0137491
+Iteration 82	 Training error: 0.0133536
+Iteration 83	 Training error: 0.0129769
+Iteration 84	 Training error: 0.0126177
+Iteration 85	 Training error: 0.0122749
+Iteration 86	 Training error: 0.0119477
+Iteration 87	 Training error: 0.0116349
+Iteration 88	 Training error: 0.0113358
+Iteration 89	 Training error: 0.0110495
+Iteration 90	 Training error: 0.0107754
+Iteration 91	 Training error: 0.0105126
+Iteration 92	 Training error: 0.0102606
+Iteration 93	 Training error: 0.0100188
+Iteration 94	 Training error: 0.00978654
+Iteration 95	 Training error: 0.0095634
+Iteration 96	 Training error: 0.00934886
+Iteration 97	 Training error: 0.00914248
+Iteration 98	 Training error: 0.00894382
+Iteration 99	 Training error: 0.00875249
+Iteration 100	 Training error: 0.00856813
+Iteration 101	 Training error: 0.00839038
+Iteration 102	 Training error: 0.00821892
+Iteration 103	 Training error: 0.00805345
+Iteration 104	 Training error: 0.00789367
+Iteration 105	 Training error: 0.00773932
+Iteration 106	 Training error: 0.00759014
+Iteration 107	 Training error: 0.00744589
+Iteration 108	 Training error: 0.00730636
+Iteration 109	 Training error: 0.00717132
+Iteration 110	 Training error: 0.00704059
+Iteration 111	 Training error: 0.00691396
+Iteration 112	 Training error: 0.00679125
+Iteration 113	 Training error: 0.00667231
+Iteration 114	 Training error: 0.00655698
+Iteration 115	 Training error: 0.00644509
+Iteration 116	 Training error: 0.00633651
+Iteration 117	 Training error: 0.0062311
+Iteration 118	 Training error: 0.00612873
+Iteration 119	 Training error: 0.00602928
+Iteration 120	 Training error: 0.00593264
+Iteration 121	 Training error: 0.00583869
+Iteration 122	 Training error: 0.00574734
+Iteration 123	 Training error: 0.00565847
+Iteration 124	 Training error: 0.005572
+Iteration 125	 Training error: 0.00548784
+Iteration 126	 Training error: 0.0054059
+Iteration 127	 Training error: 0.00532609
+Iteration 128	 Training error: 0.00524835
+Iteration 129	 Training error: 0.00517259
+Iteration 130	 Training error: 0.00509875
+Iteration 131	 Training error: 0.00502675
+Iteration 132	 Training error: 0.00495654
+Iteration 133	 Training error: 0.00488805
+Iteration 134	 Training error: 0.00482122
+Iteration 135	 Training error: 0.004756
+Iteration 136	 Training error: 0.00469233
+Iteration 137	 Training error: 0.00463015
+Iteration 138	 Training error: 0.00456943
+Iteration 139	 Training error: 0.00451011
+Iteration 140	 Training error: 0.00445215
+Iteration 141	 Training error: 0.0043955
+Iteration 142	 Training error: 0.00434013
+Iteration 143	 Training error: 0.00428598
+Iteration 144	 Training error: 0.00423303
+Iteration 145	 Training error: 0.00418124
+Iteration 146	 Training error: 0.00413056
+Iteration 147	 Training error: 0.00408097
+Iteration 148	 Training error: 0.00403244
+Iteration 149	 Training error: 0.00398493
+Iteration 150	 Training error: 0.00393841
+Iteration 151	 Training error: 0.00389285
+Iteration 152	 Training error: 0.00384823
+Iteration 153	 Training error: 0.00380451
+Iteration 154	 Training error: 0.00376168
+Iteration 155	 Training error: 0.0037197
+Iteration 156	 Training error: 0.00367855
+Iteration 157	 Training error: 0.00363822
+Iteration 158	 Training error: 0.00359867
+Iteration 159	 Training error: 0.00355988
+Iteration 160	 Training error: 0.00352184
+Iteration 161	 Training error: 0.00348453
+Iteration 162	 Training error: 0.00344791
+Iteration 163	 Training error: 0.00341199
+Iteration 164	 Training error: 0.00337673
+Iteration 165	 Training error: 0.00334212
+Iteration 166	 Training error: 0.00330814
+Iteration 167	 Training error: 0.00327478
+Iteration 168	 Training error: 0.00324202
+Iteration 169	 Training error: 0.00320985
+Iteration 170	 Training error: 0.00317824
+Iteration 171	 Training error: 0.0031472
+Iteration 172	 Training error: 0.00311669
+Iteration 173	 Training error: 0.00308671
+Iteration 174	 Training error: 0.00305725
+Iteration 175	 Training error: 0.0030283
+Iteration 176	 Training error: 0.00299983
+Iteration 177	 Training error: 0.00297184
+Iteration 178	 Training error: 0.00294432
+Iteration 179	 Training error: 0.00291726
+Iteration 180	 Training error: 0.00289065
+Iteration 181	 Training error: 0.00286446
+Iteration 182	 Training error: 0.00283871
+Iteration 183	 Training error: 0.00281337
+Iteration 184	 Training error: 0.00278844
+Iteration 185	 Training error: 0.0027639
+Iteration 186	 Training error: 0.00273975
+Iteration 187	 Training error: 0.00271598
+Iteration 188	 Training error: 0.00269258
+Iteration 189	 Training error: 0.00266954
+Iteration 190	 Training error: 0.00264686
+Iteration 191	 Training error: 0.00262452
+Iteration 192	 Training error: 0.00260253
+Iteration 193	 Training error: 0.00258086
+Iteration 194	 Training error: 0.00255952
+Iteration 195	 Training error: 0.0025385
+Iteration 196	 Training error: 0.00251779
+Iteration 197	 Training error: 0.00249738
+Iteration 198	 Training error: 0.00247727
+Iteration 199	 Training error: 0.00245746
+Iteration 200	 Training error: 0.00243792
+Iteration 201	 Training error: 0.00241867
+Iteration 202	 Training error: 0.0023997
+Iteration 203	 Training error: 0.00238099
+Iteration 204	 Training error: 0.00236254
+Iteration 205	 Training error: 0.00234436
+Iteration 206	 Training error: 0.00232642
+Iteration 207	 Training error: 0.00230874
+Iteration 208	 Training error: 0.00229129
+Iteration 209	 Training error: 0.00227409
+Iteration 210	 Training error: 0.00225711
+Iteration 211	 Training error: 0.00224037
+Iteration 212	 Training error: 0.00222385
+Iteration 213	 Training error: 0.00220756
+Iteration 214	 Training error: 0.00219147
+Iteration 215	 Training error: 0.0021756
+Iteration 216	 Training error: 0.00215994
+Iteration 217	 Training error: 0.00214448
+Iteration 218	 Training error: 0.00212923
+Iteration 219	 Training error: 0.00211417
+Iteration 220	 Training error: 0.0020993
+Iteration 221	 Training error: 0.00208462
+Iteration 222	 Training error: 0.00207013
+Iteration 223	 Training error: 0.00205582
+Iteration 224	 Training error: 0.00204169
+Iteration 225	 Training error: 0.00202773
+Iteration 226	 Training error: 0.00201395
+Iteration 227	 Training error: 0.00200034
+Iteration 228	 Training error: 0.0019869
+Iteration 229	 Training error: 0.00197362
+Iteration 230	 Training error: 0.0019605
+Iteration 231	 Training error: 0.00194754
+Iteration 232	 Training error: 0.00193473
+Iteration 233	 Training error: 0.00192208
+Iteration 234	 Training error: 0.00190957
+Iteration 235	 Training error: 0.00189722
+Iteration 236	 Training error: 0.00188501
+Iteration 237	 Training error: 0.00187294
+Iteration 238	 Training error: 0.00186102
+Iteration 239	 Training error: 0.00184923
+Iteration 240	 Training error: 0.00183758
+Iteration 241	 Training error: 0.00182606
+Iteration 242	 Training error: 0.00181467
+Iteration 243	 Training error: 0.00180341
+Iteration 244	 Training error: 0.00179228
+Iteration 245	 Training error: 0.00178128
+Iteration 246	 Training error: 0.00177039
+Iteration 247	 Training error: 0.00175963
+Iteration 248	 Training error: 0.00174899
+Iteration 249	 Training error: 0.00173846
+Iteration 250	 Training error: 0.00172805
+Iteration 251	 Training error: 0.00171776
+Iteration 252	 Training error: 0.00170757
+Iteration 253	 Training error: 0.0016975
+Iteration 254	 Training error: 0.00168753
+Iteration 255	 Training error: 0.00167767
+Iteration 256	 Training error: 0.00166792
+Iteration 257	 Training error: 0.00165826
+Iteration 258	 Training error: 0.00164872
+Iteration 259	 Training error: 0.00163927
+Iteration 260	 Training error: 0.00162992
+Iteration 261	 Training error: 0.00162066
+Iteration 262	 Training error: 0.00161151
+Iteration 263	 Training error: 0.00160244
+Iteration 264	 Training error: 0.00159347
+Iteration 265	 Training error: 0.00158459
+Iteration 266	 Training error: 0.00157581
+Iteration 267	 Training error: 0.00156711
+Iteration 268	 Training error: 0.0015585
+Iteration 269	 Training error: 0.00154997
+Iteration 270	 Training error: 0.00154153
+Iteration 271	 Training error: 0.00153318
+Iteration 272	 Training error: 0.0015249
+Iteration 273	 Training error: 0.00151671
+Iteration 274	 Training error: 0.0015086
+Iteration 275	 Training error: 0.00150057
+Iteration 276	 Training error: 0.00149262
+Iteration 277	 Training error: 0.00148474
+Iteration 278	 Training error: 0.00147694
+Iteration 279	 Training error: 0.00146922
+Iteration 280	 Training error: 0.00146156
+Iteration 281	 Training error: 0.00145399
+Iteration 282	 Training error: 0.00144648
+Iteration 283	 Training error: 0.00143904
+Iteration 284	 Training error: 0.00143168
+Iteration 285	 Training error: 0.00142438
+Iteration 286	 Training error: 0.00141715
+Iteration 287	 Training error: 0.00140999
+Iteration 288	 Training error: 0.0014029
+Iteration 289	 Training error: 0.00139587
+Iteration 290	 Training error: 0.0013889
+Iteration 291	 Training error: 0.001382
+Iteration 292	 Training error: 0.00137516
+Iteration 293	 Training error: 0.00136839
+Iteration 294	 Training error: 0.00136167
+Iteration 295	 Training error: 0.00135501
+Iteration 296	 Training error: 0.00134842
+Iteration 297	 Training error: 0.00134188
+Iteration 298	 Training error: 0.0013354
+Iteration 299	 Training error: 0.00132898
+Iteration 300	 Training error: 0.00132262
+Iteration 301	 Training error: 0.00131631
+Iteration 302	 Training error: 0.00131006
+We exit because the training is not improving!!
+Iteration 1001	 Training error: 0.00130386
+NETWORK WEIGHTS
+===============
+Layer 1 weights:
+ Neuron 0: 0.789354 -1.25187 -0.887521 
+ Neuron 1: -0.400753 -0.877679 -0.485644 
+ Neuron 2: -0.44635 0.686173 -0.248393 
+ Neuron 3: -0.36776 -0.38384 -1.13674 
+ Neuron 4: 0.189186 0.299116 1.25037 
+ Neuron 5: -0.446286 0.388539 -1.24359 
+ Neuron 6: 0.293202 -1.01594 -0.361167 
+ Neuron 7: -1.22066 1.39544 1.29875 
+ Neuron 8: -0.411937 -0.60473 -1.44496 
+ Neuron 9: 0.221864 -0.684384 0.236677 
+ Neuron 10: 0.726853 -0.807329 0.711674 
+ Neuron 11: -1.2233 -1.02627 -1.48136 
+ Neuron 12: -0.236989 0.679026 0.930163 
+ Neuron 13: 0.408033 -1.01207 -0.890127 
+ Neuron 14: 0.304749 0.31733 0.806279 
+ Neuron 15: 0.405388 -1.20157 -0.629576 
+ Neuron 16: 0.598612 0.613528 0.934991 
+ Neuron 17: 0.650921 1.82135 0.562113 
+ Neuron 18: 0.459613 0.219945 1.12745 
+ Neuron 19: -1.29624 1.62354 1.78198 
+ Neuron 20: 0.517243 0.592275 -1.04092 
+ Neuron 21: -0.260347 0.911292 1.08649 
+ Neuron 22: 0.0541509 -0.431175 -0.392644 
+ Neuron 23: -0.677514 1.20691 0.814373 
+ Neuron 24: -0.263385 -0.0976082 -0.619302 
+ Neuron 25: -0.414388 -0.520423 -0.745094 
+ Neuron 26: 0.623042 1.2915 0.655842 
+ Neuron 27: -0.462356 1.08296 -0.867726 
+ Neuron 28: 0.303492 0.909522 -0.0463915 
+ Neuron 29: -0.265814 0.564956 -0.333339 
+ Neuron 30: -0.119234 -0.12386 -0.158745 
+ Neuron 31: -0.277541 -1.45098 -0.779918 
+
+Layer 2 weights:
+ Neuron 0: -0.702756 0.206884 0.401534 0.40882 0.65706 -0.324269 -0.0130789 -0.60527 -0.887202 1.15859 -0.330366 -0.00882497 0.320415 -1.23537 0.139574 0.208525 0.00572718 -0.690485 -1.39867 -0.943055 -1.19561 0.0823076 -0.30603 0.620261 -1.13472 0.897824 -0.302451 -0.484487 -0.0747144 -0.661657 0.289844 0.636601 1.02606 
+ Neuron 1: -0.203332 0.581959 0.333968 0.76433 -0.785086 0.584783 -0.805779 -0.636189 -1.121 0.188737 0.249424 -0.630476 -1.0208 -0.355667 0.371051 -0.0740442 0.0580737 0.498593 -0.0922791 1.08221 -0.886368 -0.629884 -0.895835 -0.380941 -0.0983007 0.150369 0.743686 0.694959 -0.367711 0.341205 0.461642 0.382605 -0.259398 
+ Neuron 2: -0.24945 0.2211 -0.204532 -0.680815 0.322144 -0.117578 -0.43083 -0.495578 -1.08182 -0.166744 -0.42742 -0.278954 0.967875 0.412602 0.715733 0.394501 -0.578862 0.630617 1.00097 -0.115973 0.61362 -0.495687 -0.997734 -0.0323085 -0.910216 0.805395 0.594952 0.541207 0.359516 -0.0704073 -0.883573 -0.944381 -0.931224 
+ Neuron 3: 0.00889822 -0.644646 0.242652 0.892494 -0.303256 0.97066 0.896646 0.585796 -0.579547 -0.378361 0.609371 0.86336 -0.822439 0.127621 -0.812985 -0.787296 -0.0353513 0.33971 1.03101 0.613706 0.219334 -0.232919 0.821182 0.0147792 -0.500421 0.202696 -0.744538 0.494474 0.375422 -0.555335 0.45029 -0.766912 -0.429783 
+ Neuron 4: -0.258915 -0.947002 0.446124 -0.497502 1.02216 0.0464808 -0.129089 -0.264115 -0.336913 -0.302169 0.131864 0.618968 -0.0579147 0.184345 -0.417627 -0.919147 -0.00814625 -0.910388 0.314582 0.831755 0.804476 -0.666026 -0.729298 -0.064277 -0.380626 0.601607 -0.757716 -0.0516859 0.00252113 -0.512953 0.588304 0.692243 -0.481314 
+ Neuron 5: -0.0131558 -0.867488 -0.478565 -0.959751 0.0201071 0.222776 -0.337696 0.658413 -0.615015 -0.741554 -0.444818 0.510153 -0.140698 -0.369972 -0.467612 -0.144579 0.892567 -0.670591 -0.390841 -0.848967 -0.407991 0.575401 -0.258175 -0.845253 0.777141 0.664858 0.132829 -0.772278 0.230739 -0.196519 -0.247684 -0.787292 -0.0467561 
+ Neuron 6: 0.332777 -0.825456 0.777592 -0.399275 -0.25243 0.847604 -0.10953 -0.00892616 -0.698395 -0.758276 0.884329 -0.229198 -0.314674 0.0172297 -0.406821 0.54395 0.275411 0.151425 1.18706 0.0569258 0.747645 -0.958018 -0.0253555 0.270718 0.354044 -0.0424822 -0.571289 1.24129 0.848201 -0.0969696 0.0552895 -0.0439923 -0.232182 
+ Neuron 7: -0.0420557 0.505366 0.895097 -0.445819 -0.568055 -0.00839635 -0.256534 -0.145783 -0.0582 0.574372 0.824939 0.753063 -0.682055 0.14162 0.16221 0.204822 0.0266109 -0.880001 -0.0948806 0.0914172 -0.118707 -0.756293 -0.723588 0.805073 -0.243934 -0.732527 0.498789 0.517457 0.219287 -0.516725 -0.511857 -0.881162 0.961392 
+ Neuron 8: -0.875961 -0.425322 -0.861178 0.393555 0.351784 -0.0669238 -0.57812 -0.306294 -0.312383 0.873635 -0.152681 -1.37032 -0.0648531 -0.772438 -0.000963541 0.00347085 -0.0405558 -0.946182 1.05133 0.0632113 -1.00767 0.778981 -1.02385 -0.537739 0.0941602 0.501286 0.663883 0.717078 1.21823 0.873107 0.630876 -0.773667 -0.7182 
+ Neuron 9: 0.982737 0.542884 0.858356 0.0699166 0.821705 -0.306954 -1.00435 0.71512 0.922671 -0.85998 -0.184854 -0.788799 0.255636 0.93311 0.249262 0.298518 0.868949 -0.395164 0.64839 0.630139 -0.132317 -0.674503 -0.173946 -0.789092 -0.858819 -0.52621 -0.804205 0.948708 -0.999286 -0.521693 -0.561125 0.990916 -0.906461 
+ Neuron 10: -0.773017 -0.0603081 0.894379 -0.138656 0.09486 0.55565 -0.384008 0.141937 -0.532954 -0.218431 -0.648129 -0.713259 1.09813 0.63393 -0.980025 -0.450435 0.254683 0.58985 0.211176 0.53803 -0.375834 0.47671 0.581505 -0.137243 0.647607 0.50974 -0.0787707 -0.982673 0.878752 -0.137085 -0.912532 -0.847815 0.918205 
+ Neuron 11: 0.927659 0.105884 -0.0476729 0.518095 0.64829 -0.8229 0.853468 -0.562574 -0.638395 -0.999418 -0.601648 -0.948601 -1.02053 -0.0225313 0.400875 0.7501 -0.752755 -0.0655148 -0.838388 0.642065 -0.710557 -0.0766775 0.198611 0.975965 0.824043 0.231434 0.885701 -0.226338 0.36024 -0.946284 -0.33481 0.270242 0.0691521 
+ Neuron 12: 0.402962 -0.919685 -0.581439 0.694297 -0.756769 0.417956 -1.07614 -0.838352 1.1582 -1.00202 -0.41177 -0.44391 0.488693 -0.209745 -0.746275 -0.14664 -0.844024 -0.410445 0.371344 0.682415 1.43703 0.0759723 0.864802 -0.316558 0.521218 -0.836827 -0.979181 0.32287 -0.122989 0.588198 -0.746811 -0.529671 -1.1898 
+ Neuron 13: 0.10597 -0.515604 0.0865159 -0.752299 -0.132861 0.736265 0.840768 0.30707 -0.378246 -0.476015 0.165124 0.157839 0.420673 0.867656 0.743889 0.818366 0.0989968 0.391941 0.528444 -0.683736 0.116194 -0.440071 0.399026 0.332472 -0.144292 -0.419052 -0.654178 -0.613809 -0.200343 -0.00343039 -0.234083 0.913098 0.546761 
+ Neuron 14: 0.765829 -0.879711 -0.663659 0.49557 1.00278 0.564894 -0.975168 -0.541452 -0.300675 0.0886089 0.770834 -0.456876 -0.176265 0.57352 0.612645 -0.858277 0.13324 0.836089 0.110009 0.61166 0.246104 -0.55613 -0.600792 0.802812 -0.272709 -0.200183 -0.355091 0.703506 0.5495 -0.494218 0.201839 0.33862 -0.335552 
+ Neuron 15: 0.422922 -0.51102 -0.480842 0.0738435 -0.299023 0.160901 0.647054 0.7003 0.172815 -0.770203 -0.365193 -0.511902 0.930974 -0.0125983 0.338447 0.866546 -1.19434 0.22408 0.126461 -0.519715 1.05686 -0.128484 0.305328 -0.666525 0.73918 -0.171426 -1.09433 -0.903123 -0.974393 0.343645 -0.311605 0.575894 -1.01883 
+ Neuron 16: 0.217764 -0.0238954 0.280333 -0.517242 -0.00131821 -0.589674 0.617952 0.20589 0.327756 1.18525 -0.0636894 -0.592723 0.930282 -0.50163 -0.115404 -0.877557 1.11689 -0.363296 -1.11264 -0.452154 -1.12806 -0.111509 -1.02015 0.18205 -0.627642 -0.496316 0.398229 -1.23527 0.17927 -0.278349 -0.865284 -0.428635 1.0535 
+ Neuron 17: 0.307587 -0.00487377 -0.672807 -0.712998 -0.705117 0.391633 0.96926 -0.94795 -0.637414 -0.527462 0.413129 0.204908 0.0237704 -0.947778 0.202606 -0.869469 -0.758552 -0.893641 -0.597089 -0.0528465 -0.573728 0.495672 0.677104 -0.0763844 -0.255117 0.703123 -0.91129 0.721584 0.989573 -0.325482 0.410772 0.204916 0.570448 
+ Neuron 18: 0.550514 0.638564 0.967938 0.0407051 0.497475 0.593299 0.621317 0.937627 -0.0799615 -0.121182 -0.188262 0.18114 1.03894 -0.329122 0.823789 0.675248 0.42834 -0.686108 -0.863157 -0.496747 -1.3183 0.296292 0.136709 0.910315 0.085695 0.139683 0.879113 -1.18599 -0.505945 -0.181376 0.568849 -0.790972 -0.390408 
+ Neuron 19: 0.503855 0.401721 0.801282 0.510278 -0.154479 0.516741 -0.0555888 0.532318 -0.643027 -0.710073 0.363155 0.397055 0.905163 0.284982 -0.137629 -0.61378 0.810223 0.504929 -0.358402 0.0477363 -0.147609 -0.414092 -0.514793 -0.808248 -0.702308 -0.347493 -0.287572 0.374958 -0.634935 -0.0949142 0.850236 0.876364 -0.699147 
+ Neuron 20: 0.596723 0.177893 -0.000955457 0.352444 -0.717086 -0.534133 0.882379 -0.661395 1.12585 0.346459 -0.747717 0.244996 -0.780509 -0.130329 0.0393656 0.60946 0.371574 -0.770882 -0.171671 -0.981676 0.0580856 0.105591 -0.443653 0.447165 0.776811 0.955908 0.800775 -0.32902 0.910515 0.769067 -0.0685364 0.456474 -0.0153917 
+ Neuron 21: 0.947892 -0.341654 0.416031 -0.554176 -0.43404 0.866717 -0.634513 0.899455 -0.590762 0.871771 -0.904419 0.222968 0.116861 0.730779 -0.454619 0.263951 -0.514271 -0.339828 -0.950078 0.488323 0.522854 0.665005 0.090933 0.2055 0.597404 0.670967 0.0469096 0.171603 -0.578661 -0.539904 -0.69447 -0.48237 0.327522 
+ Neuron 22: 0.734967 0.0480527 0.769692 0.585614 0.45513 0.922349 0.749949 0.35347 0.816644 -0.313211 -0.619889 0.480639 0.20358 0.797194 -1.062 -0.743925 0.775496 0.56736 0.511664 0.576325 -0.529349 -0.50891 0.162481 -0.823556 0.611838 -0.730062 -0.28558 -0.814739 -0.284128 0.384043 0.385341 -0.670746 -0.771376 
+ Neuron 23: 0.177308 0.922031 1.01935 -0.130584 0.624491 0.252743 -0.331446 -0.430466 0.675819 -0.606614 0.971252 0.54775 -0.543885 0.860297 0.303545 0.692805 0.472434 -0.370077 -0.964932 0.924808 0.799497 -0.628161 0.30495 -0.877719 0.182716 0.453115 -0.214583 -0.624616 -0.392699 -0.0854719 -0.185298 -0.950065 0.103783 
+ Neuron 24: -0.130224 0.0388438 -0.409686 -0.864494 0.875056 0.073187 0.813902 -0.770442 -0.0194761 0.224629 -0.398404 -0.0581533 -0.509393 -0.603511 -0.771603 0.245829 -0.339923 -0.858599 0.0256274 0.200291 0.652707 0.110812 -0.504608 0.0763885 0.848118 0.0622348 0.917395 -0.131712 -1.00785 0.983223 0.794751 -0.14661 0.0327224 
+ Neuron 25: -0.581973 -0.202544 -0.194687 0.48386 -0.2297 0.231037 -0.675114 -1.11174 0.942925 0.143368 -0.562039 -0.938975 0.414971 0.881916 -0.406496 0.673084 -0.432648 1.02093 0.342021 0.858532 -0.349084 -0.679506 0.807182 0.362232 -0.673747 -0.514383 0.349128 -0.734964 -0.640606 -0.62082 0.190553 -0.379775 0.0621837 
+ Neuron 26: 0.967732 -0.960885 -0.983578 0.100132 -0.680646 -0.958793 -0.192989 0.543288 -0.520681 -0.140516 -0.0214786 -0.786303 0.563591 -0.468538 -0.0411106 0.487443 0.684678 -0.239366 0.836576 0.865701 -0.688115 0.222105 0.956783 -0.162529 -0.367937 -0.964839 0.0870505 -0.0922006 0.131062 0.696663 -0.868195 0.115743 0.727551 
+ Neuron 27: -0.844686 -0.765822 -0.82624 -0.834435 0.111809 0.516838 -0.269439 0.981128 -0.381948 0.0999804 0.575521 0.233919 1.12422 -0.0620183 -0.112155 -0.393513 -0.0490471 -0.413463 -0.0691647 -0.90086 -0.251631 0.961352 -0.309957 -0.23066 -0.00841817 0.721915 0.938293 -0.38432 0.756127 -0.081113 -0.567091 -0.959334 0.350564 
+ Neuron 28: -0.433798 -0.678548 -0.73844 -0.841919 -0.0243878 -0.752852 -0.248085 1.02404 0.658841 0.868894 0.957049 -0.25522 -0.354265 -0.345375 0.644057 0.488332 0.771819 0.792219 -0.854065 0.706834 -0.563902 -0.203571 -0.278043 -0.731375 -0.316827 0.459555 -0.888646 0.722571 0.954622 -0.844426 -0.0616717 -0.502449 -0.599291 
+ Neuron 29: 0.293743 -0.375315 0.39666 0.446923 0.409856 0.49459 0.145712 0.301074 0.459227 0.89196 -0.907691 1.05631 0.51564 0.598082 0.714858 0.367655 0.616938 0.506425 0.923717 -0.455062 -0.717016 -0.853221 0.308255 0.619394 -0.690272 -0.0438522 0.549898 -0.555821 0.901897 -0.88654 -0.186707 0.10055 -0.333595 
+ Neuron 30: -0.848644 -0.508491 -0.844977 0.51887 0.640036 0.423117 -0.14474 0.570385 0.5102 -0.079292 0.10589 0.0545996 -0.321632 -0.683664 -0.360375 -0.967828 -0.782215 0.0676971 -0.87594 -0.723205 -0.651342 0.771975 -0.576609 0.254765 0.326558 -0.193921 0.125826 0.321986 0.498971 -0.860543 -0.948487 0.727405 -0.281407 
+ Neuron 31: -1.01809 0.355135 -0.77078 0.458628 -1.02055 0.875364 -0.085532 0.0923244 -0.384611 -1.11599 0.690814 0.184409 -0.553299 0.66069 0.404467 0.832838 0.975716 0.668616 -1.04065 0.752748 -1.20809 0.0102195 0.012653 -0.0938972 -0.735073 -0.62381 -0.531039 -0.502165 -0.598983 -0.909946 0.160407 -0.293249 0.542723 
+
+Layer 3 weights:
+ Neuron 0: 0.514051 -2.15551 1.59903 0.584597 0.986097 -0.338697 -0.517155 1.21891 0.0440151 1.6502 -0.416437 -0.565889 0.776437 -3.38871 -0.580712 -0.028664 -1.32725 -2.59226 0.434803 1.70705 0.403044 -1.22666 -1.1112 0.790555 -1.01438 -0.413722 -0.83488 0.281061 -0.923865 0.485484 -0.173903 -0.847385 1.83347 
+
+Desired output Vs Obtained output (test)
+=========================================
+1 -- 0.965313 
+0 -- 0.0355462 
+1 -- 0.963035 
+0 -- 0.0371789 
+We end!! => Final test error: 0.00130386
+**********
+SEED 5
+**********
+Iteration 1	 Training error: 0.361198
+Iteration 2	 Training error: 0.281466
+Iteration 3	 Training error: 0.281458
+Iteration 4	 Training error: 0.29828
+Iteration 5	 Training error: 0.267348
+Iteration 6	 Training error: 0.259779
+Iteration 7	 Training error: 0.261881
+Iteration 8	 Training error: 0.251333
+Iteration 9	 Training error: 0.25043
+Iteration 10	 Training error: 0.248008
+Iteration 11	 Training error: 0.241428
+Iteration 12	 Training error: 0.23853
+Iteration 13	 Training error: 0.235072
+Iteration 14	 Training error: 0.231972
+Iteration 15	 Training error: 0.229348
+Iteration 16	 Training error: 0.225687
+Iteration 17	 Training error: 0.222319
+Iteration 18	 Training error: 0.219212
+Iteration 19	 Training error: 0.216228
+Iteration 20	 Training error: 0.213278
+Iteration 21	 Training error: 0.210049
+Iteration 22	 Training error: 0.206784
+Iteration 23	 Training error: 0.203589
+Iteration 24	 Training error: 0.200408
+Iteration 25	 Training error: 0.197132
+Iteration 26	 Training error: 0.193683
+Iteration 27	 Training error: 0.190127
+Iteration 28	 Training error: 0.186505
+Iteration 29	 Training error: 0.182788
+Iteration 30	 Training error: 0.17892
+Iteration 31	 Training error: 0.174889
+Iteration 32	 Training error: 0.170724
+Iteration 33	 Training error: 0.166437
+Iteration 34	 Training error: 0.162018
+Iteration 35	 Training error: 0.157455
+Iteration 36	 Training error: 0.152757
+Iteration 37	 Training error: 0.147947
+Iteration 38	 Training error: 0.143038
+Iteration 39	 Training error: 0.138035
+Iteration 40	 Training error: 0.132953
+Iteration 41	 Training error: 0.127815
+Iteration 42	 Training error: 0.122643
+Iteration 43	 Training error: 0.117459
+Iteration 44	 Training error: 0.112282
+Iteration 45	 Training error: 0.107139
+Iteration 46	 Training error: 0.102053
+Iteration 47	 Training error: 0.0970488
+Iteration 48	 Training error: 0.0921479
+Iteration 49	 Training error: 0.0873709
+Iteration 50	 Training error: 0.082737
+Iteration 51	 Training error: 0.0782629
+Iteration 52	 Training error: 0.0739621
+Iteration 53	 Training error: 0.0698451
+Iteration 54	 Training error: 0.0659199
+Iteration 55	 Training error: 0.0621913
+Iteration 56	 Training error: 0.0586617
+Iteration 57	 Training error: 0.0553306
+Iteration 58	 Training error: 0.0521955
+Iteration 59	 Training error: 0.0492519
+Iteration 60	 Training error: 0.0464937
+Iteration 61	 Training error: 0.0439139
+Iteration 62	 Training error: 0.0415043
+Iteration 63	 Training error: 0.0392561
+Iteration 64	 Training error: 0.0371603
+Iteration 65	 Training error: 0.0352077
+Iteration 66	 Training error: 0.0333891
+Iteration 67	 Training error: 0.0316954
+Iteration 68	 Training error: 0.0301181
+Iteration 69	 Training error: 0.0286487
+Iteration 70	 Training error: 0.0272793
+Iteration 71	 Training error: 0.0260025
+Iteration 72	 Training error: 0.0248112
+Iteration 73	 Training error: 0.023699
+Iteration 74	 Training error: 0.0226597
+Iteration 75	 Training error: 0.0216878
+Iteration 76	 Training error: 0.0207781
+Iteration 77	 Training error: 0.0199257
+Iteration 78	 Training error: 0.0191264
+Iteration 79	 Training error: 0.018376
+Iteration 80	 Training error: 0.0176709
+Iteration 81	 Training error: 0.0170076
+Iteration 82	 Training error: 0.0163831
+Iteration 83	 Training error: 0.0157945
+Iteration 84	 Training error: 0.0152391
+Iteration 85	 Training error: 0.0147146
+Iteration 86	 Training error: 0.0142188
+Iteration 87	 Training error: 0.0137496
+Iteration 88	 Training error: 0.0133053
+Iteration 89	 Training error: 0.012884
+Iteration 90	 Training error: 0.0124843
+Iteration 91	 Training error: 0.0121046
+Iteration 92	 Training error: 0.0117437
+Iteration 93	 Training error: 0.0114004
+Iteration 94	 Training error: 0.0110734
+Iteration 95	 Training error: 0.0107619
+Iteration 96	 Training error: 0.0104647
+Iteration 97	 Training error: 0.0101811
+Iteration 98	 Training error: 0.00991021
+Iteration 99	 Training error: 0.00965124
+Iteration 100	 Training error: 0.00940352
+Iteration 101	 Training error: 0.00916637
+Iteration 102	 Training error: 0.00893921
+Iteration 103	 Training error: 0.00872145
+Iteration 104	 Training error: 0.00851258
+Iteration 105	 Training error: 0.0083121
+Iteration 106	 Training error: 0.00811956
+Iteration 107	 Training error: 0.00793453
+Iteration 108	 Training error: 0.00775661
+Iteration 109	 Training error: 0.00758543
+Iteration 110	 Training error: 0.00742065
+Iteration 111	 Training error: 0.00726193
+Iteration 112	 Training error: 0.00710898
+Iteration 113	 Training error: 0.0069615
+Iteration 114	 Training error: 0.00681923
+Iteration 115	 Training error: 0.00668192
+Iteration 116	 Training error: 0.00654933
+Iteration 117	 Training error: 0.00642124
+Iteration 118	 Training error: 0.00629743
+Iteration 119	 Training error: 0.00617771
+Iteration 120	 Training error: 0.0060619
+Iteration 121	 Training error: 0.00594982
+Iteration 122	 Training error: 0.0058413
+Iteration 123	 Training error: 0.00573618
+Iteration 124	 Training error: 0.00563433
+Iteration 125	 Training error: 0.00553559
+Iteration 126	 Training error: 0.00543985
+Iteration 127	 Training error: 0.00534696
+Iteration 128	 Training error: 0.00525682
+Iteration 129	 Training error: 0.00516931
+Iteration 130	 Training error: 0.00508432
+Iteration 131	 Training error: 0.00500176
+Iteration 132	 Training error: 0.00492153
+Iteration 133	 Training error: 0.00484353
+Iteration 134	 Training error: 0.00476768
+Iteration 135	 Training error: 0.0046939
+Iteration 136	 Training error: 0.00462211
+Iteration 137	 Training error: 0.00455224
+Iteration 138	 Training error: 0.0044842
+Iteration 139	 Training error: 0.00441794
+Iteration 140	 Training error: 0.0043534
+Iteration 141	 Training error: 0.0042905
+Iteration 142	 Training error: 0.00422919
+Iteration 143	 Training error: 0.00416941
+Iteration 144	 Training error: 0.00411112
+Iteration 145	 Training error: 0.00405425
+Iteration 146	 Training error: 0.00399877
+Iteration 147	 Training error: 0.00394461
+Iteration 148	 Training error: 0.00389175
+Iteration 149	 Training error: 0.00384013
+Iteration 150	 Training error: 0.00378972
+Iteration 151	 Training error: 0.00374047
+Iteration 152	 Training error: 0.00369234
+Iteration 153	 Training error: 0.00364531
+Iteration 154	 Training error: 0.00359934
+Iteration 155	 Training error: 0.00355438
+Iteration 156	 Training error: 0.00351042
+Iteration 157	 Training error: 0.00346742
+Iteration 158	 Training error: 0.00342535
+Iteration 159	 Training error: 0.00338418
+Iteration 160	 Training error: 0.00334388
+Iteration 161	 Training error: 0.00330444
+Iteration 162	 Training error: 0.00326582
+Iteration 163	 Training error: 0.00322799
+Iteration 164	 Training error: 0.00319095
+Iteration 165	 Training error: 0.00315466
+Iteration 166	 Training error: 0.0031191
+Iteration 167	 Training error: 0.00308425
+Iteration 168	 Training error: 0.00305009
+Iteration 169	 Training error: 0.0030166
+Iteration 170	 Training error: 0.00298377
+Iteration 171	 Training error: 0.00295157
+Iteration 172	 Training error: 0.00291999
+Iteration 173	 Training error: 0.00288902
+Iteration 174	 Training error: 0.00285862
+Iteration 175	 Training error: 0.0028288
+Iteration 176	 Training error: 0.00279953
+Iteration 177	 Training error: 0.0027708
+Iteration 178	 Training error: 0.00274259
+Iteration 179	 Training error: 0.0027149
+Iteration 180	 Training error: 0.00268771
+Iteration 181	 Training error: 0.002661
+Iteration 182	 Training error: 0.00263476
+Iteration 183	 Training error: 0.00260899
+Iteration 184	 Training error: 0.00258367
+Iteration 185	 Training error: 0.00255879
+Iteration 186	 Training error: 0.00253433
+Iteration 187	 Training error: 0.0025103
+Iteration 188	 Training error: 0.00248667
+Iteration 189	 Training error: 0.00246344
+Iteration 190	 Training error: 0.0024406
+Iteration 191	 Training error: 0.00241813
+Iteration 192	 Training error: 0.00239604
+Iteration 193	 Training error: 0.00237431
+Iteration 194	 Training error: 0.00235293
+Iteration 195	 Training error: 0.0023319
+Iteration 196	 Training error: 0.00231121
+Iteration 197	 Training error: 0.00229084
+Iteration 198	 Training error: 0.0022708
+Iteration 199	 Training error: 0.00225107
+Iteration 200	 Training error: 0.00223165
+Iteration 201	 Training error: 0.00221253
+Iteration 202	 Training error: 0.0021937
+Iteration 203	 Training error: 0.00217517
+Iteration 204	 Training error: 0.00215691
+Iteration 205	 Training error: 0.00213893
+Iteration 206	 Training error: 0.00212122
+Iteration 207	 Training error: 0.00210377
+Iteration 208	 Training error: 0.00208658
+Iteration 209	 Training error: 0.00206965
+Iteration 210	 Training error: 0.00205296
+Iteration 211	 Training error: 0.00203651
+Iteration 212	 Training error: 0.0020203
+Iteration 213	 Training error: 0.00200433
+Iteration 214	 Training error: 0.00198858
+Iteration 215	 Training error: 0.00197305
+Iteration 216	 Training error: 0.00195775
+Iteration 217	 Training error: 0.00194265
+Iteration 218	 Training error: 0.00192777
+Iteration 219	 Training error: 0.00191309
+Iteration 220	 Training error: 0.00189862
+Iteration 221	 Training error: 0.00188434
+Iteration 222	 Training error: 0.00187026
+Iteration 223	 Training error: 0.00185637
+Iteration 224	 Training error: 0.00184266
+Iteration 225	 Training error: 0.00182913
+Iteration 226	 Training error: 0.00181579
+Iteration 227	 Training error: 0.00180262
+Iteration 228	 Training error: 0.00178963
+Iteration 229	 Training error: 0.0017768
+Iteration 230	 Training error: 0.00176414
+Iteration 231	 Training error: 0.00175164
+Iteration 232	 Training error: 0.00173931
+Iteration 233	 Training error: 0.00172713
+Iteration 234	 Training error: 0.0017151
+Iteration 235	 Training error: 0.00170323
+Iteration 236	 Training error: 0.0016915
+Iteration 237	 Training error: 0.00167993
+Iteration 238	 Training error: 0.00166849
+Iteration 239	 Training error: 0.0016572
+Iteration 240	 Training error: 0.00164604
+Iteration 241	 Training error: 0.00163502
+Iteration 242	 Training error: 0.00162414
+Iteration 243	 Training error: 0.00161339
+Iteration 244	 Training error: 0.00160276
+Iteration 245	 Training error: 0.00159226
+Iteration 246	 Training error: 0.00158189
+Iteration 247	 Training error: 0.00157164
+Iteration 248	 Training error: 0.00156151
+Iteration 249	 Training error: 0.0015515
+Iteration 250	 Training error: 0.00154161
+Iteration 251	 Training error: 0.00153183
+Iteration 252	 Training error: 0.00152216
+Iteration 253	 Training error: 0.0015126
+Iteration 254	 Training error: 0.00150316
+Iteration 255	 Training error: 0.00149382
+Iteration 256	 Training error: 0.00148458
+Iteration 257	 Training error: 0.00147545
+Iteration 258	 Training error: 0.00146642
+Iteration 259	 Training error: 0.0014575
+Iteration 260	 Training error: 0.00144867
+Iteration 261	 Training error: 0.00143994
+Iteration 262	 Training error: 0.0014313
+Iteration 263	 Training error: 0.00142276
+Iteration 264	 Training error: 0.00141431
+Iteration 265	 Training error: 0.00140595
+Iteration 266	 Training error: 0.00139768
+Iteration 267	 Training error: 0.00138951
+Iteration 268	 Training error: 0.00138141
+Iteration 269	 Training error: 0.00137341
+Iteration 270	 Training error: 0.00136549
+Iteration 271	 Training error: 0.00135765
+Iteration 272	 Training error: 0.00134989
+Iteration 273	 Training error: 0.00134222
+Iteration 274	 Training error: 0.00133462
+Iteration 275	 Training error: 0.0013271
+Iteration 276	 Training error: 0.00131966
+Iteration 277	 Training error: 0.0013123
+Iteration 278	 Training error: 0.00130501
+Iteration 279	 Training error: 0.0012978
+Iteration 280	 Training error: 0.00129065
+Iteration 281	 Training error: 0.00128358
+Iteration 282	 Training error: 0.00127658
+Iteration 283	 Training error: 0.00126965
+Iteration 284	 Training error: 0.00126279
+Iteration 285	 Training error: 0.001256
+Iteration 286	 Training error: 0.00124927
+Iteration 287	 Training error: 0.00124261
+Iteration 288	 Training error: 0.00123601
+Iteration 289	 Training error: 0.00122948
+Iteration 290	 Training error: 0.00122301
+Iteration 291	 Training error: 0.0012166
+Iteration 292	 Training error: 0.00121026
+Iteration 293	 Training error: 0.00120397
+Iteration 294	 Training error: 0.00119775
+Iteration 295	 Training error: 0.00119158
+Iteration 296	 Training error: 0.00118547
+Iteration 297	 Training error: 0.00117942
+Iteration 298	 Training error: 0.00117343
+We exit because the training is not improving!!
+Iteration 1001	 Training error: 0.00116749
+NETWORK WEIGHTS
+===============
+Layer 1 weights:
+ Neuron 0: -0.802919 -1.05235 1.60001 
+ Neuron 1: -1.48987 -1.47433 -1.59717 
+ Neuron 2: -0.457606 -0.447534 0.273173 
+ Neuron 3: 0.995701 -1.61312 -1.00137 
+ Neuron 4: 1.04802 -0.450234 -0.584084 
+ Neuron 5: -0.401225 -0.662884 -0.397569 
+ Neuron 6: -0.204154 -0.830611 -0.229943 
+ Neuron 7: -0.098804 0.0141896 -0.657206 
+ Neuron 8: -0.508441 0.504143 1.84628 
+ Neuron 9: -0.0464815 0.179488 1.31024 
+ Neuron 10: 0.15865 0.348338 -1.69451 
+ Neuron 11: 0.168391 0.894736 -0.996806 
+ Neuron 12: 0.494254 -1.04665 0.690286 
+ Neuron 13: -0.912668 1.03475 0.132032 
+ Neuron 14: -0.213514 1.0286 0.987817 
+ Neuron 15: 0.711216 -0.865191 -0.841745 
+ Neuron 16: -0.779591 0.163366 0.899951 
+ Neuron 17: 0.157441 -1.27839 1.17176 
+ Neuron 18: 0.71596 -1.16507 0.412963 
+ Neuron 19: 0.14418 0.018605 -1.32732 
+ Neuron 20: -0.153137 1.53687 0.268139 
+ Neuron 21: 0.0142561 -1.09175 -0.133779 
+ Neuron 22: 0.337728 1.57444 -0.0815027 
+ Neuron 23: -0.271552 -1.51052 -0.216023 
+ Neuron 24: 0.892573 -0.693278 -0.702336 
+ Neuron 25: 0.527156 -1.48057 0.437186 
+ Neuron 26: -1.5295 -1.52118 1.36258 
+ Neuron 27: 0.0282625 0.277941 1.38401 
+ Neuron 28: -0.00364378 -1.04414 -0.90875 
+ Neuron 29: -0.693983 -0.597294 -0.442188 
+ Neuron 30: -0.685177 -1.25613 -0.750924 
+ Neuron 31: -1.34967 1.24989 1.44156 
+
+Layer 2 weights:
+ Neuron 0: 0.199504 -0.115469 0.736215 -0.888318 0.702765 0.981737 -0.0565725 0.418348 -0.409356 0.264632 -0.0745686 -0.207887 -0.690487 0.03899 -0.210705 -0.935633 1.1549 0.64124 -0.825532 -0.172508 0.815534 -0.852248 0.156025 -0.177093 0.339118 0.757699 0.164805 -0.611191 0.606288 -0.514121 1.035 -0.247647 -0.0844656 
+ Neuron 1: 0.660929 -0.701165 -0.369779 0.406404 0.322612 0.695416 0.962608 -0.138954 -0.253384 -0.469179 -0.0492999 0.847886 0.643739 0.0940308 0.638892 0.0982976 0.268053 -0.787686 -0.563785 0.319846 0.422538 0.654364 -0.399149 -0.0127039 -0.589304 -0.199761 -0.768108 -0.534775 -0.380565 0.0351887 0.942358 -0.530452 0.785619 
+ Neuron 2: -0.754594 -1.15314 0.449833 -0.879495 0.933422 -0.890001 -0.124424 -0.40933 0.316787 -0.686899 -1.16363 -0.349806 0.932354 0.0608355 0.867662 -0.92597 0.814585 0.395361 0.432712 0.361052 -0.795312 -0.846985 0.927822 -0.122816 -0.180506 -0.237433 0.860825 0.656668 -0.410401 -0.530795 0.541913 0.268443 -0.684099 
+ Neuron 3: -0.161394 0.460756 -0.613079 0.0315461 -0.66081 0.0254952 -0.621386 -0.263444 0.00340971 -0.0737851 -0.302131 -0.912518 -0.079458 0.00467902 0.879426 -0.618968 -0.451045 0.32049 -0.290055 -0.115386 0.283015 0.623578 0.642988 -0.966966 0.65177 0.475838 -0.0393773 1.08797 -0.0113056 -0.855393 -0.606322 0.849884 0.373681 
+ Neuron 4: -0.25054 -0.473747 1.09684 0.717728 -0.113096 -0.73073 -0.210417 -0.858673 0.043682 -0.0237983 0.0153276 1.01391 -0.219139 0.545054 -0.500546 -0.851135 -0.994299 0.262382 0.265056 0.904477 -0.127858 0.442718 0.401538 -0.727025 -0.631655 0.268871 0.257711 -1.06238 0.704961 0.0832094 0.867801 -0.360389 1.10973 
+ Neuron 5: 0.44137 -0.62694 0.0226008 0.874155 0.417182 0.24203 0.00380171 0.946469 -0.762806 -0.585459 -0.626225 0.803262 0.241543 -0.28116 0.555928 -0.83135 1.29823 0.525949 0.479764 0.523275 0.207566 0.338775 0.902402 -0.856664 0.151074 -0.637678 -0.647328 1.24695 -1.18538 -0.00932522 0.826333 0.736585 -0.465974 
+ Neuron 6: -0.358507 0.442071 0.827435 0.82621 -0.682363 0.725572 -1.02053 0.111374 -0.708806 0.584977 -0.581972 -0.0705482 0.465996 -0.0300821 -0.0844276 0.0933375 -0.576284 -0.595918 -0.741434 -0.96272 -0.841064 -0.380577 -0.0227323 -0.69568 -0.139363 -0.0602238 -0.617215 0.737413 -0.274758 0.930425 -0.43757 0.503258 0.261247 
+ Neuron 7: -0.492013 0.343435 0.765692 -0.666602 0.334537 -0.219546 -0.307277 0.15355 0.29012 0.760833 -0.284736 -0.683591 -0.311963 0.913067 -0.188489 0.18404 -0.888038 -0.0859803 0.35917 -0.104318 0.905185 0.79696 0.781682 -0.074045 -0.78527 0.363427 0.692725 -0.896537 -0.957933 0.244854 0.613568 -0.364945 -0.190501 
+ Neuron 8: 0.236752 0.517036 -1.08567 -0.743325 1.03498 0.429693 0.495897 0.517171 -1.01694 0.820125 -0.646235 -1.28556 -0.663419 0.559704 -0.969098 0.44343 -0.139779 0.19624 0.955392 -0.25122 -0.202072 -0.755284 -0.0846969 -0.876827 -0.540387 0.0982245 -0.233583 1.19023 -0.140276 0.227891 -0.7371 -0.915437 -1.00637 
+ Neuron 9: -0.757181 -0.892413 1.22015 0.837002 0.726794 0.293554 -0.93959 0.680781 0.50619 -1.08198 -0.847619 -0.142452 -0.824412 0.99223 0.481041 0.315824 0.508448 -0.85545 -0.390877 -0.86739 0.0140826 -0.236955 -0.625681 -1.21944 0.812913 0.820722 -0.108126 -0.250569 -0.986905 -0.0362886 0.077937 -0.133352 -0.0376763 
+ Neuron 10: 0.0684998 -0.392221 -0.183053 -0.537666 -0.371041 -0.508598 -0.954645 -0.282441 -0.161242 -0.00222309 0.110316 -0.186046 -0.291975 -0.318119 -0.630528 -0.0337055 0.320644 -0.556842 -0.979532 -0.574455 -0.197492 -0.803968 -0.888962 -0.251339 -0.0126925 0.00252706 -0.0704107 0.872349 -0.89808 0.647967 -0.0423868 0.132142 -0.729558 
+ Neuron 11: 0.770207 0.679342 -0.230419 -0.725064 0.690112 0.61263 0.0766914 -0.374776 -0.304742 0.886038 0.35613 0.365413 -0.772267 -0.732546 -0.287521 -0.314942 -0.685083 0.16742 0.515792 -0.547541 0.243476 -0.795973 0.464659 -0.740899 0.127521 0.344739 -0.645608 -0.0749513 -0.67851 0.482244 0.058501 -0.949424 0.0692004 
+ Neuron 12: 1.08092 -0.424037 -0.730731 0.597156 0.375836 0.407456 -0.862217 0.236113 -0.297941 0.963041 0.920646 -0.0985376 -0.489171 -0.738334 0.55303 0.934147 0.733206 0.946214 -0.0323911 -1.06931 0.171985 0.544943 0.0980979 -0.0452685 0.304179 -1.02134 -0.20054 0.335186 0.372766 -0.247833 -0.828301 -0.219191 0.575308 
+ Neuron 13: -0.0695328 -0.498224 -0.437289 -0.678391 0.013699 -0.697731 0.0843204 -0.448652 1.02998 -1.09355 -0.0506352 -0.450843 0.820701 -0.539048 -0.78089 0.348457 0.745549 -0.860379 -0.552903 -0.465894 0.581694 0.556925 -0.703685 0.650279 -0.891938 0.566164 -0.739698 0.482422 0.534937 0.504653 -0.176948 -0.485843 -1.01122 
+ Neuron 14: 0.908344 -0.0473475 0.100938 -0.945712 -0.573233 1.03998 -0.943193 -0.458576 0.27245 -0.828435 -0.987015 1.25897 -0.0988119 0.376818 0.724471 -0.206076 -0.520352 -0.562004 -1.09744 0.515454 0.198521 0.902857 -0.924012 -0.213562 -0.974313 0.708378 -0.992349 0.736277 -0.729123 -0.0534413 -0.875605 -0.918889 -1.0618 
+ Neuron 15: 0.381409 -0.69266 -0.48799 0.299814 -0.637745 0.0591007 -0.598368 -0.245137 0.233999 -0.708354 0.290575 -0.158727 0.837426 -0.926289 0.197413 -0.686539 -0.755422 -0.0325549 0.236939 0.935331 0.107681 0.663974 -0.878979 -0.328767 0.889188 0.934897 0.137412 -0.234194 -0.95908 0.34264 -0.095261 0.397969 0.661219 
+ Neuron 16: 0.261973 -0.282295 0.800929 -0.654506 -0.0671866 -0.376675 0.496446 0.188039 0.874737 -0.520089 0.175489 -1.15537 0.509229 0.351823 -0.763885 -0.393577 -0.505517 -0.885635 0.693175 -0.783008 -0.926578 -0.658041 -0.949188 -0.892465 0.327345 -0.191518 -0.926351 -0.182593 0.858434 0.359986 -0.690718 0.0358282 -0.815228 
+ Neuron 17: -0.657012 0.524917 0.162023 0.0296096 0.0356125 -0.569362 -0.0271109 0.495493 0.522194 0.0902731 0.181612 -0.118179 0.200129 0.69485 0.570539 0.415854 0.279647 0.812544 0.592257 0.667709 0.854118 0.732062 0.0519543 -0.174824 0.820537 0.75313 -0.413678 0.333355 -0.811581 0.662803 0.492587 -0.578405 0.288135 
+ Neuron 18: -0.465113 0.199174 -0.92725 -0.0165916 -1.29797 0.433224 -0.625859 0.109846 -0.297691 1.10548 -0.193664 -0.699802 0.107615 0.722468 1.21815 0.357107 -0.0172198 0.642622 -0.436371 -0.061051 -0.732158 0.981671 -0.263057 -0.329457 -1.29678 -1.0145 -0.934844 0.428253 1.06075 -0.61787 -0.0524064 -0.8733 -0.130615 
+ Neuron 19: 0.331779 0.658108 -0.239554 0.140584 -0.695178 -0.791827 -0.958485 0.839898 -0.166299 -0.433223 -0.0721709 -0.194225 -0.526614 0.840654 -0.68329 -1.01037 -0.35853 0.557606 -0.361236 -0.786939 -0.391162 -0.0816116 -0.622378 -0.0483511 0.455652 -0.754347 -0.108792 -0.612502 0.292197 0.412789 -0.329279 -0.332042 -0.0325105 
+ Neuron 20: 0.370324 0.753327 0.220402 0.618548 0.862599 0.0808375 -0.523006 -0.581678 -0.965861 0.181172 -0.151411 0.893966 0.665332 -0.0910251 -0.568177 0.141216 0.607072 -0.360031 0.788097 -0.522602 0.0661449 -0.206241 0.955484 0.233524 0.704735 -0.694481 -0.461946 0.150447 -0.113795 0.244442 -0.877586 -0.591601 -0.100395 
+ Neuron 21: 0.513494 -1.26379 0.259136 -0.487004 -0.495923 0.356248 -0.310318 0.961406 -0.589117 -0.597591 0.386823 0.555111 0.168635 -0.235246 -0.079673 0.619068 -0.289954 0.363586 -0.566068 0.507088 0.618969 1.01275 0.273901 0.834008 -0.442842 -0.560559 -0.354474 0.322524 -0.645938 0.265507 -0.141615 1.05367 0.279469 
+ Neuron 22: 0.574478 -0.712629 0.642974 -0.111384 0.0199038 0.62992 0.171902 0.384947 0.274921 -0.773096 -0.799098 -0.791222 0.409887 -1.22086 -0.268303 -0.437729 -0.335995 -0.835351 -1.23316 -0.629928 0.603926 0.735806 0.0214248 0.96865 -0.799174 -0.103261 -0.789801 0.378529 0.523609 -0.674636 -0.387263 0.27408 -0.337915 
+ Neuron 23: -0.515393 -0.640725 1.00385 -0.877782 0.59049 0.396658 0.375482 -0.902163 0.795356 0.452214 0.371235 0.800741 -0.872792 1.05143 -0.533753 -0.606967 -0.977588 0.0714431 0.888197 0.777424 -0.784942 0.766475 -0.888653 0.131792 -0.790427 0.556273 -0.114554 -0.529024 -0.774294 -0.731816 0.413952 -0.32137 -0.305804 
+ Neuron 24: 0.272913 -0.277898 -0.80662 -0.34955 -0.789942 -0.66824 -0.541298 0.485291 0.669791 -0.989546 0.456739 0.72254 -0.312267 0.885605 0.565656 0.558714 0.878865 0.313355 0.846821 0.472494 0.513384 -0.0849711 0.698153 -0.0761689 0.855942 -0.709246 0.179884 -0.867203 0.494217 0.864593 -0.329699 -0.0956427 -0.674497 
+ Neuron 25: -0.0163886 0.799633 -0.632472 0.218159 1.29486 -0.811428 -0.184211 -0.759969 0.633897 -0.761406 -0.148672 0.514635 -0.973324 -0.41871 0.154305 0.268131 -0.402866 -0.239561 -0.0649163 0.417442 -0.510135 0.69516 0.253131 -0.404049 0.0134521 0.40527 -0.63931 0.0791187 0.935898 0.234589 0.20122 -0.210843 -0.587188 
+ Neuron 26: 0.779895 1.1614 -0.225923 0.857686 -0.246081 -0.22323 0.410227 0.193105 0.463501 -0.0025509 0.279486 -1.22011 -1.18748 -0.252753 -0.73462 -0.202676 0.256826 0.782089 0.553324 0.294406 -0.257991 0.673932 1.03316 -1.12397 -0.664649 -0.424319 1.26978 0.347159 0.947687 -0.154184 0.87099 0.703757 -0.202679 
+ Neuron 27: -0.613822 0.0882981 0.616363 0.159441 -0.594675 -0.679868 -0.255164 0.433571 0.47928 -0.131838 0.455886 0.944428 0.108239 -0.695378 0.233302 -0.101377 0.389204 -0.814991 0.675703 0.409302 -0.948716 0.839057 0.449206 -0.368218 0.854991 -0.437624 -0.606305 -0.726548 -0.522542 0.916534 0.262055 0.0062376 0.392006 
+ Neuron 28: -0.537906 -1.15677 1.13009 -0.0520996 -0.563748 0.0481717 -0.520076 0.516699 -0.341286 -0.29927 -0.309569 -0.0458261 0.598664 0.521182 -0.344641 0.968933 0.0216403 0.947808 0.817444 0.168807 0.308575 -0.410145 -0.0568481 -0.91881 -0.0892193 0.382597 -0.490371 -0.577307 -0.142088 0.445087 -0.911211 0.510244 1.02648 
+ Neuron 29: 0.935725 -0.536779 -0.360692 0.191118 0.0384169 -0.821553 0.976441 0.530219 -0.078903 -0.0153366 0.143801 -0.47577 0.616381 0.0413063 0.792841 0.529284 -0.0106337 -0.0340824 -0.0497705 0.555825 1.04152 0.0696853 -0.450455 0.628995 0.723452 0.460475 -0.47112 0.209867 0.517045 -0.941859 -0.0135206 0.515114 -0.474599 
+ Neuron 30: 0.627571 -0.0834071 0.177552 0.735523 -0.451137 0.0580165 -0.526423 0.528557 -0.820828 0.327218 0.49629 0.101502 -0.156325 -0.231817 -0.596174 1.10068 0.654933 0.925081 0.97949 -0.186623 -0.803604 0.722021 -0.52174 0.987605 -1.15802 0.773367 0.295065 -0.736503 0.0808994 -0.377201 -0.486777 -0.846541 0.696034 
+ Neuron 31: -0.864573 -0.741444 -0.8676 0.234953 0.0752769 0.977028 0.540859 0.879445 0.0979534 -0.56556 -0.431037 0.889708 -0.0087531 -0.407651 0.36988 -0.403215 -0.379213 -0.667049 0.374584 0.924814 0.0634902 -0.167294 0.951521 -0.418886 -0.380811 1.02879 0.746448 0.635567 -0.701935 1.12504 -0.130225 -0.346816 0.645799 
+
+Layer 3 weights:
+ Neuron 0: -0.22782 0.709575 -1.26192 -0.793824 0.349365 -1.64839 1.64231 0.67627 -0.615084 2.21706 -1.30854 0.558508 0.459923 1.47506 1.92635 1.79969 -0.25045 0.511727 -0.581767 -2.36031 0.459667 0.475861 -1.26532 1.2438 -0.523629 0.550727 1.22144 -1.5248 -1.09074 -1.69965 -0.360158 1.08133 1.18935 
+
+Desired output Vs Obtained output (test)
+=========================================
+1 -- 0.966413 
+0 -- 0.0351105 
+1 -- 0.965411 
+0 -- 0.0333572 
+We end!! => Final test error: 0.00116749
+FINAL REPORT
+************
+Train error (Mean +- SD): 0.00123486 +- 6.28476e-05
+Test error  (Mean +- SD): 0.00123486 +- 6.28476e-05

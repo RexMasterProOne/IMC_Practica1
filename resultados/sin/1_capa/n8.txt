@@ -1,0 +1,727 @@
+**********
+SEED 1
+**********
+Iteration 1	 Training error: 0.0325217
+Iteration 2	 Training error: 0.0323841
+Iteration 3	 Training error: 0.0324916
+Iteration 4	 Training error: 0.0326821
+Iteration 5	 Training error: 0.0328836
+Iteration 6	 Training error: 0.0330727
+Iteration 7	 Training error: 0.0332439
+Iteration 8	 Training error: 0.0333977
+Iteration 9	 Training error: 0.0335369
+Iteration 10	 Training error: 0.033664
+Iteration 11	 Training error: 0.0337816
+Iteration 12	 Training error: 0.0338914
+Iteration 13	 Training error: 0.0339948
+Iteration 14	 Training error: 0.0340928
+Iteration 15	 Training error: 0.0341862
+Iteration 16	 Training error: 0.0342753
+Iteration 17	 Training error: 0.0343606
+Iteration 18	 Training error: 0.0344423
+Iteration 19	 Training error: 0.0345205
+Iteration 20	 Training error: 0.0345954
+Iteration 21	 Training error: 0.034667
+Iteration 22	 Training error: 0.0347353
+Iteration 23	 Training error: 0.0348004
+Iteration 24	 Training error: 0.0348623
+Iteration 25	 Training error: 0.0349211
+Iteration 26	 Training error: 0.0349767
+Iteration 27	 Training error: 0.0350291
+Iteration 28	 Training error: 0.0350784
+Iteration 29	 Training error: 0.0351246
+Iteration 30	 Training error: 0.0351677
+Iteration 31	 Training error: 0.0352078
+Iteration 32	 Training error: 0.0352449
+Iteration 33	 Training error: 0.035279
+Iteration 34	 Training error: 0.0353102
+Iteration 35	 Training error: 0.0353385
+Iteration 36	 Training error: 0.035364
+Iteration 37	 Training error: 0.0353868
+Iteration 38	 Training error: 0.0354069
+Iteration 39	 Training error: 0.0354244
+Iteration 40	 Training error: 0.0354394
+Iteration 41	 Training error: 0.0354519
+Iteration 42	 Training error: 0.0354621
+Iteration 43	 Training error: 0.03547
+Iteration 44	 Training error: 0.0354758
+Iteration 45	 Training error: 0.0354794
+Iteration 46	 Training error: 0.0354811
+Iteration 47	 Training error: 0.0354809
+Iteration 48	 Training error: 0.0354789
+Iteration 49	 Training error: 0.0354752
+Iteration 50	 Training error: 0.0354699
+Iteration 51	 Training error: 0.0354631
+We exit because the training is not improving!!
+Iteration 1001	 Training error: 0.0354548
+NETWORK WEIGHTS
+===============
+Layer 1 weights:
+ Neuron 0: 0.652931 -0.0780126 
+ Neuron 1: 0.518422 0.460948 
+ Neuron 2: 0.802184 -0.543901 
+ Neuron 3: -0.409657 0.325212 
+ Neuron 4: -0.487646 -0.00561233 
+ Neuron 5: -0.103609 0.089864 
+ Neuron 6: -0.289286 0.217179 
+ Neuron 7: 0.87163 0.72509 
+
+Layer 2 weights:
+ Neuron 0: 0.363847 0.447839 -0.504824 0.143398 -0.790941 -0.45169 -0.612097 0.661874 -0.425785 
+
+Desired output Vs Obtained output (test)
+=========================================
+0.430996 -- 0.372215 
+0.40083 -- 0.398482 
+0.191116 -- 0.422649 
+0.366144 -- 0.416438 
+0.367519 -- 0.428952 
+0.604647 -- 0.376432 
+0.465379 -- 0.430685 
+0.459066 -- 0.397955 
+0.161198 -- 0.385667 
+0.529216 -- 0.420379 
+0.232835 -- 0.452407 
+0.268985 -- 0.380751 
+0.404717 -- 0.436501 
+0.234433 -- 0.451223 
+0.68694 -- 0.407051 
+0.612588 -- 0.410333 
+0.472511 -- 0.444131 
+0.771912 -- 0.371753 
+0.767634 -- 0.372679 
+0.529077 -- 0.376907 
+0.840582 -- 0.438255 
+0.304584 -- 0.389688 
+0.375972 -- 0.388171 
+0.706528 -- 0.433005 
+0.192498 -- 0.393785 
+0 -- 0.42208 
+0.445856 -- 0.396906 
+0.199522 -- 0.395861 
+0.473098 -- 0.454185 
+0.517121 -- 0.383686 
+0.125798 -- 0.454778 
+0.399047 -- 0.389181 
+0.360765 -- 0.431844 
+0.61931 -- 0.404884 
+0.419672 -- 0.386665 
+0.657247 -- 0.3793 
+0.461055 -- 0.427225 
+0.650546 -- 0.444721 
+0.321302 -- 0.38418 
+0.623597 -- 0.447082 
+0.461309 -- 0.429529 
+We end!! => Final test error: 0.0387765
+**********
+SEED 2
+**********
+Iteration 1	 Training error: 0.0345479
+Iteration 2	 Training error: 0.034103
+Iteration 3	 Training error: 0.0339659
+Iteration 4	 Training error: 0.0339376
+Iteration 5	 Training error: 0.033963
+Iteration 6	 Training error: 0.0340162
+Iteration 7	 Training error: 0.034084
+Iteration 8	 Training error: 0.0341592
+Iteration 9	 Training error: 0.0342379
+Iteration 10	 Training error: 0.0343175
+Iteration 11	 Training error: 0.0343969
+Iteration 12	 Training error: 0.0344751
+Iteration 13	 Training error: 0.0345516
+Iteration 14	 Training error: 0.0346261
+Iteration 15	 Training error: 0.0346985
+Iteration 16	 Training error: 0.0347684
+Iteration 17	 Training error: 0.034836
+Iteration 18	 Training error: 0.034901
+Iteration 19	 Training error: 0.0349635
+Iteration 20	 Training error: 0.0350234
+Iteration 21	 Training error: 0.0350807
+Iteration 22	 Training error: 0.0351354
+Iteration 23	 Training error: 0.0351875
+Iteration 24	 Training error: 0.0352369
+Iteration 25	 Training error: 0.0352836
+Iteration 26	 Training error: 0.0353278
+Iteration 27	 Training error: 0.0353693
+Iteration 28	 Training error: 0.0354082
+Iteration 29	 Training error: 0.0354445
+Iteration 30	 Training error: 0.0354783
+Iteration 31	 Training error: 0.0355094
+Iteration 32	 Training error: 0.0355381
+Iteration 33	 Training error: 0.0355643
+Iteration 34	 Training error: 0.035588
+Iteration 35	 Training error: 0.0356094
+Iteration 36	 Training error: 0.0356283
+Iteration 37	 Training error: 0.035645
+Iteration 38	 Training error: 0.0356593
+Iteration 39	 Training error: 0.0356715
+Iteration 40	 Training error: 0.0356815
+Iteration 41	 Training error: 0.0356894
+Iteration 42	 Training error: 0.0356953
+Iteration 43	 Training error: 0.0356993
+Iteration 44	 Training error: 0.0357013
+Iteration 45	 Training error: 0.0357015
+Iteration 46	 Training error: 0.0357
+Iteration 47	 Training error: 0.0356968
+Iteration 48	 Training error: 0.035692
+Iteration 49	 Training error: 0.0356856
+Iteration 50	 Training error: 0.0356778
+Iteration 51	 Training error: 0.0356687
+Iteration 52	 Training error: 0.0356582
+Iteration 53	 Training error: 0.0356465
+We exit because the training is not improving!!
+Iteration 1001	 Training error: 0.0356336
+NETWORK WEIGHTS
+===============
+Layer 1 weights:
+ Neuron 0: 0.271266 0.507733 
+ Neuron 1: -0.883975 -0.809313 
+ Neuron 2: -0.317746 -0.0798879 
+ Neuron 3: 0.31176 -0.880592 
+ Neuron 4: 0.0915365 0.292261 
+ Neuron 5: 0.840374 -0.488842 
+ Neuron 6: -0.466686 -0.760096 
+ Neuron 7: 0.846202 -0.185522 
+
+Layer 2 weights:
+ Neuron 0: -0.632279 0.681976 0.67799 -0.521617 0.130805 -0.109138 0.493476 -0.619081 -0.394403 
+
+Desired output Vs Obtained output (test)
+=========================================
+0.430996 -- 0.40185 
+0.40083 -- 0.398614 
+0.191116 -- 0.395778 
+0.366144 -- 0.396484 
+0.367519 -- 0.395079 
+0.604647 -- 0.401331 
+0.465379 -- 0.39489 
+0.459066 -- 0.398678 
+0.161198 -- 0.400188 
+0.529216 -- 0.396034 
+0.232835 -- 0.392631 
+0.268985 -- 0.400797 
+0.404717 -- 0.394266 
+0.234433 -- 0.39275 
+0.68694 -- 0.397583 
+0.612588 -- 0.397195 
+0.472511 -- 0.39347 
+0.771912 -- 0.401907 
+0.767634 -- 0.401794 
+0.529077 -- 0.401272 
+0.840582 -- 0.394081 
+0.304584 -- 0.399691 
+0.375972 -- 0.399879 
+0.706528 -- 0.39464 
+0.192498 -- 0.399188 
+0 -- 0.395842 
+0.445856 -- 0.398806 
+0.199522 -- 0.398933 
+0.473098 -- 0.392454 
+0.517121 -- 0.400433 
+0.125798 -- 0.392395 
+0.399047 -- 0.399754 
+0.360765 -- 0.394765 
+0.61931 -- 0.397842 
+0.419672 -- 0.400065 
+0.657247 -- 0.400976 
+0.461055 -- 0.395269 
+0.650546 -- 0.393409 
+0.321302 -- 0.400372 
+0.623597 -- 0.393168 
+0.461309 -- 0.395016 
+We end!! => Final test error: 0.0378061
+**********
+SEED 3
+**********
+Iteration 1	 Training error: 0.0346725
+Iteration 2	 Training error: 0.0345235
+Iteration 3	 Training error: 0.0346733
+Iteration 4	 Training error: 0.034796
+Iteration 5	 Training error: 0.0348972
+Iteration 6	 Training error: 0.0349818
+Iteration 7	 Training error: 0.0350538
+Iteration 8	 Training error: 0.035116
+Iteration 9	 Training error: 0.0351707
+Iteration 10	 Training error: 0.0352195
+Iteration 11	 Training error: 0.0352633
+Iteration 12	 Training error: 0.0353029
+Iteration 13	 Training error: 0.0353389
+Iteration 14	 Training error: 0.0353716
+Iteration 15	 Training error: 0.0354014
+Iteration 16	 Training error: 0.0354283
+Iteration 17	 Training error: 0.0354526
+Iteration 18	 Training error: 0.0354743
+Iteration 19	 Training error: 0.0354937
+Iteration 20	 Training error: 0.0355106
+Iteration 21	 Training error: 0.0355253
+Iteration 22	 Training error: 0.0355378
+Iteration 23	 Training error: 0.0355481
+Iteration 24	 Training error: 0.0355564
+Iteration 25	 Training error: 0.0355626
+Iteration 26	 Training error: 0.035567
+Iteration 27	 Training error: 0.0355694
+Iteration 28	 Training error: 0.03557
+Iteration 29	 Training error: 0.0355689
+Iteration 30	 Training error: 0.0355662
+Iteration 31	 Training error: 0.0355619
+Iteration 32	 Training error: 0.035556
+Iteration 33	 Training error: 0.0355487
+Iteration 34	 Training error: 0.0355401
+Iteration 35	 Training error: 0.0355301
+Iteration 36	 Training error: 0.035519
+Iteration 37	 Training error: 0.0355067
+Iteration 38	 Training error: 0.0354933
+Iteration 39	 Training error: 0.0354789
+Iteration 40	 Training error: 0.0354636
+Iteration 41	 Training error: 0.0354475
+Iteration 42	 Training error: 0.0354305
+Iteration 43	 Training error: 0.0354128
+Iteration 44	 Training error: 0.0353944
+Iteration 45	 Training error: 0.0353755
+Iteration 46	 Training error: 0.0353559
+Iteration 47	 Training error: 0.0353359
+Iteration 48	 Training error: 0.0353154
+Iteration 49	 Training error: 0.0352946
+Iteration 50	 Training error: 0.0352734
+Iteration 51	 Training error: 0.0352519
+We exit because the training is not improving!!
+Iteration 1001	 Training error: 0.0352302
+NETWORK WEIGHTS
+===============
+Layer 1 weights:
+ Neuron 0: 0.022647 -0.546373 
+ Neuron 1: -0.388776 -0.133266 
+ Neuron 2: -0.473824 -0.693155 
+ Neuron 3: -0.00901271 0.723276 
+ Neuron 4: 0.721153 -0.528719 
+ Neuron 5: -1.11424 -0.0993228 
+ Neuron 6: -0.656901 0.2703 
+ Neuron 7: 0.744101 0.69844 
+
+Layer 2 weights:
+ Neuron 0: -0.163086 -0.0919258 -0.569401 0.166634 -0.196867 0.231707 -0.628533 0.399676 -0.153153 
+
+Desired output Vs Obtained output (test)
+=========================================
+0.430996 -- 0.382084 
+0.40083 -- 0.38815 
+0.191116 -- 0.394168 
+0.366144 -- 0.392617 
+0.367519 -- 0.395729 
+0.604647 -- 0.382987 
+0.465379 -- 0.396155 
+0.459066 -- 0.388021 
+0.161198 -- 0.385076 
+0.529216 -- 0.393602 
+0.232835 -- 0.401313 
+0.268985 -- 0.383947 
+0.404717 -- 0.397573 
+0.234433 -- 0.401043 
+0.68694 -- 0.390271 
+0.612588 -- 0.39109 
+0.472511 -- 0.399396 
+0.771912 -- 0.381987 
+0.767634 -- 0.382181 
+0.529077 -- 0.383091 
+0.840582 -- 0.397996 
+0.304584 -- 0.386023 
+0.375972 -- 0.385663 
+0.706528 -- 0.396723 
+0.192498 -- 0.387005 
+0 -- 0.394026 
+0.445856 -- 0.387764 
+0.199522 -- 0.387509 
+0.473098 -- 0.401716 
+0.517121 -- 0.384617 
+0.125798 -- 0.401849 
+0.399047 -- 0.385902 
+0.360765 -- 0.396439 
+0.61931 -- 0.389732 
+0.419672 -- 0.385309 
+0.657247 -- 0.383621 
+0.461055 -- 0.395303 
+0.650546 -- 0.399535 
+0.321302 -- 0.384731 
+0.623597 -- 0.400087 
+0.461309 -- 0.395871 
+We end!! => Final test error: 0.0388187
+**********
+SEED 4
+**********
+Iteration 1	 Training error: 0.035447
+Iteration 2	 Training error: 0.0349129
+Iteration 3	 Training error: 0.034703
+Iteration 4	 Training error: 0.0346344
+Iteration 5	 Training error: 0.0346326
+Iteration 6	 Training error: 0.0346639
+Iteration 7	 Training error: 0.0347116
+Iteration 8	 Training error: 0.0347674
+Iteration 9	 Training error: 0.0348265
+Iteration 10	 Training error: 0.0348865
+Iteration 11	 Training error: 0.034946
+Iteration 12	 Training error: 0.0350041
+Iteration 13	 Training error: 0.0350604
+Iteration 14	 Training error: 0.0351145
+Iteration 15	 Training error: 0.0351664
+Iteration 16	 Training error: 0.0352159
+Iteration 17	 Training error: 0.035263
+Iteration 18	 Training error: 0.0353076
+Iteration 19	 Training error: 0.0353497
+Iteration 20	 Training error: 0.0353892
+Iteration 21	 Training error: 0.0354263
+Iteration 22	 Training error: 0.0354609
+Iteration 23	 Training error: 0.0354929
+Iteration 24	 Training error: 0.0355225
+Iteration 25	 Training error: 0.0355496
+Iteration 26	 Training error: 0.0355742
+Iteration 27	 Training error: 0.0355965
+Iteration 28	 Training error: 0.0356163
+Iteration 29	 Training error: 0.0356338
+Iteration 30	 Training error: 0.035649
+Iteration 31	 Training error: 0.0356619
+Iteration 32	 Training error: 0.0356726
+Iteration 33	 Training error: 0.0356811
+Iteration 34	 Training error: 0.0356875
+Iteration 35	 Training error: 0.0356918
+Iteration 36	 Training error: 0.0356941
+Iteration 37	 Training error: 0.0356946
+Iteration 38	 Training error: 0.0356931
+Iteration 39	 Training error: 0.0356899
+Iteration 40	 Training error: 0.0356849
+Iteration 41	 Training error: 0.0356783
+Iteration 42	 Training error: 0.0356701
+Iteration 43	 Training error: 0.0356604
+Iteration 44	 Training error: 0.0356493
+Iteration 45	 Training error: 0.0356368
+Iteration 46	 Training error: 0.0356231
+Iteration 47	 Training error: 0.0356082
+Iteration 48	 Training error: 0.0355922
+Iteration 49	 Training error: 0.0355751
+Iteration 50	 Training error: 0.0355571
+Iteration 51	 Training error: 0.0355382
+Iteration 52	 Training error: 0.0355185
+Iteration 53	 Training error: 0.035498
+We exit because the training is not improving!!
+Iteration 1001	 Training error: 0.0354769
+NETWORK WEIGHTS
+===============
+Layer 1 weights:
+ Neuron 0: 0.800424 -0.570511 
+ Neuron 1: -0.678586 -0.524504 
+ Neuron 2: -0.61768 -0.180137 
+ Neuron 3: -0.226399 0.38953 
+ Neuron 4: -0.657521 -0.301855 
+ Neuron 5: -0.0672254 -0.85717 
+ Neuron 6: 0.0358256 0.221112 
+ Neuron 7: 0.769056 -0.364691 
+
+Layer 2 weights:
+ Neuron 0: 0.330199 -0.902061 0.470246 -0.762216 -0.587125 -0.609656 0.551329 0.701575 -0.290304 
+
+Desired output Vs Obtained output (test)
+=========================================
+0.430996 -- 0.399035 
+0.40083 -- 0.392273 
+0.191116 -- 0.390056 
+0.366144 -- 0.390397 
+0.367519 -- 0.389815 
+0.604647 -- 0.397511 
+0.465379 -- 0.389764 
+0.459066 -- 0.392354 
+0.161198 -- 0.394813 
+0.529216 -- 0.390167 
+0.232835 -- 0.389383 
+0.268985 -- 0.396146 
+0.404717 -- 0.389625 
+0.234433 -- 0.3894 
+0.68694 -- 0.391181 
+0.612588 -- 0.390864 
+0.472511 -- 0.389497 
+0.771912 -- 0.399214 
+0.767634 -- 0.398858 
+0.529077 -- 0.397352 
+0.840582 -- 0.389592 
+0.304584 -- 0.39388 
+0.375972 -- 0.394216 
+0.706528 -- 0.389703 
+0.192498 -- 0.393062 
+0 -- 0.390082 
+0.445856 -- 0.392521 
+0.199522 -- 0.392695 
+0.473098 -- 0.389357 
+0.517121 -- 0.395323 
+0.125798 -- 0.389348 
+0.399047 -- 0.39399 
+0.360765 -- 0.389732 
+0.61931 -- 0.391419 
+0.419672 -- 0.394568 
+0.657247 -- 0.396584 
+0.461055 -- 0.389872 
+0.650546 -- 0.389489 
+0.321302 -- 0.395193 
+0.623597 -- 0.389456 
+0.461309 -- 0.389797 
+We end!! => Final test error: 0.0381795
+**********
+SEED 5
+**********
+Iteration 1	 Training error: 0.0372121
+Iteration 2	 Training error: 0.0364287
+Iteration 3	 Training error: 0.0360157
+Iteration 4	 Training error: 0.0357779
+Iteration 5	 Training error: 0.0356402
+Iteration 6	 Training error: 0.0355624
+Iteration 7	 Training error: 0.0355216
+Iteration 8	 Training error: 0.035504
+Iteration 9	 Training error: 0.0355011
+Iteration 10	 Training error: 0.0355073
+Iteration 11	 Training error: 0.035519
+Iteration 12	 Training error: 0.0355339
+Iteration 13	 Training error: 0.0355504
+Iteration 14	 Training error: 0.0355674
+Iteration 15	 Training error: 0.0355841
+Iteration 16	 Training error: 0.0356001
+Iteration 17	 Training error: 0.035615
+Iteration 18	 Training error: 0.0356286
+Iteration 19	 Training error: 0.0356407
+Iteration 20	 Training error: 0.0356513
+Iteration 21	 Training error: 0.0356603
+Iteration 22	 Training error: 0.0356676
+Iteration 23	 Training error: 0.0356734
+Iteration 24	 Training error: 0.0356775
+Iteration 25	 Training error: 0.0356801
+Iteration 26	 Training error: 0.0356811
+Iteration 27	 Training error: 0.0356806
+Iteration 28	 Training error: 0.0356787
+Iteration 29	 Training error: 0.0356753
+Iteration 30	 Training error: 0.0356706
+Iteration 31	 Training error: 0.0356645
+Iteration 32	 Training error: 0.0356572
+Iteration 33	 Training error: 0.0356486
+Iteration 34	 Training error: 0.0356389
+Iteration 35	 Training error: 0.0356281
+Iteration 36	 Training error: 0.0356163
+Iteration 37	 Training error: 0.0356034
+Iteration 38	 Training error: 0.0355896
+Iteration 39	 Training error: 0.0355749
+Iteration 40	 Training error: 0.0355594
+Iteration 41	 Training error: 0.0355431
+Iteration 42	 Training error: 0.0355261
+Iteration 43	 Training error: 0.0355084
+Iteration 44	 Training error: 0.0354901
+Iteration 45	 Training error: 0.0354712
+Iteration 46	 Training error: 0.0354518
+Iteration 47	 Training error: 0.0354319
+Iteration 48	 Training error: 0.0354115
+Iteration 49	 Training error: 0.0353908
+Iteration 50	 Training error: 0.0353697
+Iteration 51	 Training error: 0.0353483
+Iteration 52	 Training error: 0.0353266
+Iteration 53	 Training error: 0.0353046
+Iteration 54	 Training error: 0.0352825
+Iteration 55	 Training error: 0.0352602
+Iteration 56	 Training error: 0.0352378
+Iteration 57	 Training error: 0.0352152
+Iteration 58	 Training error: 0.0351925
+Iteration 59	 Training error: 0.0351698
+Iteration 60	 Training error: 0.0351471
+Iteration 61	 Training error: 0.0351244
+Iteration 62	 Training error: 0.0351016
+Iteration 63	 Training error: 0.035079
+Iteration 64	 Training error: 0.0350563
+Iteration 65	 Training error: 0.0350337
+Iteration 66	 Training error: 0.0350113
+Iteration 67	 Training error: 0.0349889
+Iteration 68	 Training error: 0.0349666
+Iteration 69	 Training error: 0.0349445
+Iteration 70	 Training error: 0.0349225
+Iteration 71	 Training error: 0.0349006
+Iteration 72	 Training error: 0.0348789
+Iteration 73	 Training error: 0.0348574
+Iteration 74	 Training error: 0.0348361
+Iteration 75	 Training error: 0.0348149
+Iteration 76	 Training error: 0.0347939
+Iteration 77	 Training error: 0.0347731
+Iteration 78	 Training error: 0.0347526
+Iteration 79	 Training error: 0.0347322
+Iteration 80	 Training error: 0.034712
+Iteration 81	 Training error: 0.034692
+Iteration 82	 Training error: 0.0346723
+Iteration 83	 Training error: 0.0346527
+Iteration 84	 Training error: 0.0346334
+Iteration 85	 Training error: 0.0346142
+Iteration 86	 Training error: 0.0345953
+Iteration 87	 Training error: 0.0345766
+Iteration 88	 Training error: 0.0345581
+Iteration 89	 Training error: 0.0345398
+Iteration 90	 Training error: 0.0345218
+Iteration 91	 Training error: 0.0345039
+Iteration 92	 Training error: 0.0344862
+Iteration 93	 Training error: 0.0344688
+Iteration 94	 Training error: 0.0344515
+Iteration 95	 Training error: 0.0344345
+Iteration 96	 Training error: 0.0344176
+Iteration 97	 Training error: 0.034401
+Iteration 98	 Training error: 0.0343845
+Iteration 99	 Training error: 0.0343683
+Iteration 100	 Training error: 0.0343522
+Iteration 101	 Training error: 0.0343363
+Iteration 102	 Training error: 0.0343206
+Iteration 103	 Training error: 0.034305
+Iteration 104	 Training error: 0.0342897
+Iteration 105	 Training error: 0.0342745
+Iteration 106	 Training error: 0.0342595
+Iteration 107	 Training error: 0.0342447
+Iteration 108	 Training error: 0.03423
+Iteration 109	 Training error: 0.0342155
+Iteration 110	 Training error: 0.0342011
+Iteration 111	 Training error: 0.0341869
+Iteration 112	 Training error: 0.0341729
+Iteration 113	 Training error: 0.034159
+Iteration 114	 Training error: 0.0341452
+Iteration 115	 Training error: 0.0341316
+Iteration 116	 Training error: 0.0341182
+Iteration 117	 Training error: 0.0341048
+Iteration 118	 Training error: 0.0340917
+Iteration 119	 Training error: 0.0340786
+Iteration 120	 Training error: 0.0340657
+Iteration 121	 Training error: 0.0340529
+Iteration 122	 Training error: 0.0340402
+Iteration 123	 Training error: 0.0340277
+Iteration 124	 Training error: 0.0340153
+Iteration 125	 Training error: 0.034003
+Iteration 126	 Training error: 0.0339909
+Iteration 127	 Training error: 0.0339788
+Iteration 128	 Training error: 0.0339669
+Iteration 129	 Training error: 0.0339551
+Iteration 130	 Training error: 0.0339434
+Iteration 131	 Training error: 0.0339318
+Iteration 132	 Training error: 0.0339203
+Iteration 133	 Training error: 0.0339089
+Iteration 134	 Training error: 0.0338976
+Iteration 135	 Training error: 0.0338865
+Iteration 136	 Training error: 0.0338754
+Iteration 137	 Training error: 0.0338645
+Iteration 138	 Training error: 0.0338537
+Iteration 139	 Training error: 0.0338429
+Iteration 140	 Training error: 0.0338323
+Iteration 141	 Training error: 0.0338217
+Iteration 142	 Training error: 0.0338113
+Iteration 143	 Training error: 0.033801
+Iteration 144	 Training error: 0.0337908
+Iteration 145	 Training error: 0.0337806
+Iteration 146	 Training error: 0.0337706
+Iteration 147	 Training error: 0.0337607
+Iteration 148	 Training error: 0.0337508
+Iteration 149	 Training error: 0.0337411
+Iteration 150	 Training error: 0.0337315
+Iteration 151	 Training error: 0.033722
+Iteration 152	 Training error: 0.0337125
+Iteration 153	 Training error: 0.0337032
+Iteration 154	 Training error: 0.033694
+Iteration 155	 Training error: 0.0336848
+Iteration 156	 Training error: 0.0336758
+Iteration 157	 Training error: 0.0336669
+Iteration 158	 Training error: 0.033658
+Iteration 159	 Training error: 0.0336493
+Iteration 160	 Training error: 0.0336406
+Iteration 161	 Training error: 0.0336321
+Iteration 162	 Training error: 0.0336237
+Iteration 163	 Training error: 0.0336153
+Iteration 164	 Training error: 0.0336071
+Iteration 165	 Training error: 0.0335989
+Iteration 166	 Training error: 0.0335909
+Iteration 167	 Training error: 0.0335829
+Iteration 168	 Training error: 0.033575
+Iteration 169	 Training error: 0.0335673
+Iteration 170	 Training error: 0.0335596
+Iteration 171	 Training error: 0.0335521
+Iteration 172	 Training error: 0.0335446
+Iteration 173	 Training error: 0.0335372
+Iteration 174	 Training error: 0.0335299
+Iteration 175	 Training error: 0.0335227
+Iteration 176	 Training error: 0.0335156
+Iteration 177	 Training error: 0.0335086
+Iteration 178	 Training error: 0.0335017
+Iteration 179	 Training error: 0.0334949
+Iteration 180	 Training error: 0.0334881
+Iteration 181	 Training error: 0.0334815
+Iteration 182	 Training error: 0.0334749
+Iteration 183	 Training error: 0.0334684
+Iteration 184	 Training error: 0.033462
+Iteration 185	 Training error: 0.0334557
+Iteration 186	 Training error: 0.0334495
+Iteration 187	 Training error: 0.0334433
+Iteration 188	 Training error: 0.0334373
+Iteration 189	 Training error: 0.0334313
+Iteration 190	 Training error: 0.0334253
+Iteration 191	 Training error: 0.0334195
+Iteration 192	 Training error: 0.0334137
+Iteration 193	 Training error: 0.0334079
+Iteration 194	 Training error: 0.0334023
+Iteration 195	 Training error: 0.0333967
+We exit because the training is not improving!!
+Iteration 1001	 Training error: 0.0333912
+NETWORK WEIGHTS
+===============
+Layer 1 weights:
+ Neuron 0: -1.79292 -0.928447 
+ Neuron 1: -1.12713 -0.45816 
+ Neuron 2: -2.05672 -1.5638 
+ Neuron 3: -1.68373 0.113902 
+ Neuron 4: -1.50017 1.66462 
+ Neuron 5: -1.79235 -0.20822 
+ Neuron 6: -1.35582 -0.0503806 
+ Neuron 7: -1.64464 -0.23192 
+
+Layer 2 weights:
+ Neuron 0: 0.0476945 -0.520263 0.125729 -0.996557 -0.0894905 -0.974583 -0.0478232 -0.0143819 -0.213673 
+
+Desired output Vs Obtained output (test)
+=========================================
+0.430996 -- 0.362534 
+0.40083 -- 0.406286 
+0.191116 -- 0.413266 
+0.366144 -- 0.414806 
+0.367519 -- 0.409496 
+0.604647 -- 0.371273 
+0.465379 -- 0.408088 
+0.459066 -- 0.405741 
+0.161198 -- 0.388652 
+0.529216 -- 0.414086 
+0.232835 -- 0.378738 
+0.268985 -- 0.379774 
+0.404717 -- 0.402262 
+0.234433 -- 0.380818 
+0.68694 -- 0.412798 
+0.612588 -- 0.414106 
+0.472511 -- 0.392239 
+0.771912 -- 0.361559 
+0.767634 -- 0.36351 
+0.529077 -- 0.372233 
+0.840582 -- 0.400185 
+0.304584 -- 0.395119 
+0.375972 -- 0.392772 
+0.706528 -- 0.405964 
+0.192498 -- 0.400859 
+0 -- 0.413499 
+0.445856 -- 0.404608 
+0.199522 -- 0.403415 
+0.473098 -- 0.375533 
+0.517121 -- 0.385192 
+0.125798 -- 0.374444 
+0.399047 -- 0.394348 
+0.360765 -- 0.407061 
+0.61931 -- 0.411573 
+0.419672 -- 0.390329 
+0.657247 -- 0.376981 
+0.461055 -- 0.410742 
+0.650546 -- 0.391362 
+0.321302 -- 0.386069 
+0.623597 -- 0.387713 
+0.461309 -- 0.409044 
+We end!! => Final test error: 0.0393235
+FINAL REPORT
+************
+Train error (Mean +- SD): 0.0337738 +- 0.000922497
+Test error  (Mean +- SD): 0.0385808 +- 0.000593237

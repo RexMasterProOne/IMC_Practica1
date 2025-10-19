@@ -1,0 +1,33 @@
+# Build artifacts
+/bin/
+*.o
+*.d
+*.d.ts
+
+# Executables
+la1
+bin/
+
+# Editor
+.vscode/
+*.swp
+*~
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+
+# Compiled object files
+*.obj
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+
+# Backup files
+*.bak
+
+
+
