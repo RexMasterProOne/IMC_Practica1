@@ -6,7 +6,7 @@ CXX := g++
 
 # Adapted from Job Vranish (https://spin.atomicobject.com/2016/08/26/makefile-c-projects/)
 TARGET_EXEC := la1
-DEFAULT_RUN_CONFIG := -T ./dat/test_xor.dat -t ./dat/train_xor.dat -i 1000 -l 2 -h 16 -e 0.1 -m 0.9 -w ./dat/weights_xor.txt 
+DEFAULT_RUN_CONFIG := -T ./dat/test_xor.dat -t ./dat/train_xor.dat -i 500 -l 1 -h 2 -e 0.1 -m 0.9 -w ./dat/weights_xor.txt 
 BUILD_DIR := ./bin
 SRC_DIRS := .
 
