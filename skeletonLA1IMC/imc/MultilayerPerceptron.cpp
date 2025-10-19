@@ -434,7 +434,7 @@ void MultilayerPerceptron::predict(Dataset* pDatosTest)
 // Run the traning algorithm for a given number of epochs, using trainDataset
 // Once finished, check the performance of the network in testDataset
 // Both training and test MSEs should be obtained and stored in errorTrain and errorTest
-void MultilayerPerceptron::runOnlineBackPropagation(Dataset * trainDataset, Dataset * pDatosTest, int maxiter, double *errorTrain, double *errorTest)
+void MultilayerPerceptron::runOnlineBackPropagation(Dataset * trainDataset, Dataset * pDatosTest, int maxiter, double *errorTrain, double *errorTest, const char *csvFileName, int seed)
 {
     int countTrain = 0;
     // Random assignment of weights (starting point)
@@ -442,11 +442,30 @@ void MultilayerPerceptron::runOnlineBackPropagation(Dataset * trainDataset, Data
     double minTrainError = 0;
     int iterWithoutImproving = 0;
     double testError = 0;
+
+    std::ofstream csvFile;
+    if (csvFileName != nullptr) {
+        csvFile.open(csvFileName, std::ios::app);
+        if (csvFile.tellp() == 0) {
+            // Si el archivo está vacío, escribimos cabecera con SEED
+            csvFile << "seed,epoch,train_error,test_error\n";
+        }
+    }
+
     Dataset * newTrainDataset = NULL;
     // Learning
     do {
         trainOnline(trainDataset);
         double trainError = test(trainDataset);
+
+        // Guardado de errores por época si -c fue activado
+        if (csvFileName != nullptr && csvFile.is_open()) {
+            testError = test(pDatosTest);
+            // Guardamos: seed, epoch, error train, error test
+            csvFile << seed << "," << (countTrain + 1)
+                    << "," << trainError << "," << testError << "\n";
+        }
+
         if(countTrain==0 || trainError < minTrainError){
             if( (minTrainError-trainError) > 0.00001)
                 iterWithoutImproving = 0;
@@ -465,6 +484,10 @@ void MultilayerPerceptron::runOnlineBackPropagation(Dataset * trainDataset, Data
         countTrain++;
         cout << "Iteration " << countTrain << "\t Training error: " << trainError  << endl;
     } while ( countTrain<maxiter );
+    if (csvFileName != nullptr && csvFile.is_open()) {
+        csvFile << "\n"; // Línea en blanco entre ejecuciones
+        csvFile.close();
+    }
     cout << "NETWORK WEIGHTS" << endl;
     cout << "===============" << endl;
     printNetwork();

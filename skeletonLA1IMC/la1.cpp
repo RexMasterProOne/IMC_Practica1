@@ -15,6 +15,7 @@
 #include <float.h>
 #include <sstream>
 #include <vector>
+#include <fstream>
 
 #include "imc/MultilayerPerceptron.h"
 #include "imc/util.h"
@@ -26,7 +27,9 @@ using namespace util;
 int main(int argc, char **argv) {
     // Flags y valores por defecto
     bool pflag = false, wflag = false, normalizate = false, trainMode = false, predictMode = false;
+    bool cflag = false;                          // <-- ADD: flag para CSV
     char *trainFile = nullptr, *testFile = nullptr, *weightsFile = nullptr;
+    char *csvFile = nullptr;                    // <-- ADD: archivo CSV
     int iterations = 0, hiddenLayers = 0, hiddenNeurons = 0;
     double eta = 0.1, mu = 0.9;
     int c;
@@ -34,7 +37,7 @@ int main(int argc, char **argv) {
     opterr = 0;
 
     // Parser de argumentos
-    while ((c = getopt(argc, argv, "+t:T:i:l:h:e:m:w:sp")) != -1) {
+    while ((c = getopt(argc, argv, "+t:T:i:l:h:e:m:w:c:sp")) != -1) { // <-- ADD c:
         switch(c) {
             case 't': trainFile = optarg; break;
             case 'T': testFile = optarg; break;
@@ -46,21 +49,25 @@ int main(int argc, char **argv) {
             case 's': normalizate = true; break;
             case 'w': wflag = true; weightsFile = optarg; break;
             case 'p': pflag = true; break;
+            case 'c': cflag = true; csvFile = optarg; break; // <-- ADD
             case '?':
                 cerr << "Unknown option or missing argument" << endl;
                 return EXIT_FAILURE;
         }
     }
 
-
-     // Validación de argumentos
-
+    // Validación de argumentos
     if (!pflag) {
         //  Modo entrenamiento
         if (!trainFile || !testFile || iterations <= 0 || hiddenLayers < 0) {
             cerr << "Usage (training): " << argv[0]
                 << " -t <train_file> -T <test_file> -i <iterations> -l <hidden_layers> -h <neurons_hidden_layer> "
-                << "[-e <eta>] [-m <mu>] [-w <weights_file>] [-s]" << endl;
+                << "[-e <eta>] [-m <mu>] [-w <weights_file>] [-s] [-c <csv_file>]" << endl; // <-- ADD
+            return EXIT_FAILURE;
+        }
+        // Si el usuario pasó -c pero no puso nombre ==> error
+        if (cflag && !csvFile) {               // <-- ADD
+            cerr << "Error: -c flag requiere nombre de archivo CSV" << endl;
             return EXIT_FAILURE;
         }
         trainMode = true;
@@ -114,26 +121,47 @@ int main(int argc, char **argv) {
         mlp.initialize(nOfLayers_total, topology);
         mlp.eta = eta;
         mlp.mu  = mu;
+
+        // <-- ADD: si hay CSV, lo inicializamos con cabecera
+        if (cflag && csvFile) {
+            ofstream f(csvFile);
+            if (f.is_open()) {
+                f << "seed,epoch,trainError,testError\n";
+                f.close();
+            }
+        }
+
         int seeds[] = {1,2,3,4,5};
         const int N = sizeof(seeds) / sizeof(seeds[0]);
 
-    double *testErrors = new double[N];
-    double *trainErrors = new double[N];
-    for (int i = 0; i < N; ++i) { testErrors[i] = 0.0; trainErrors[i] = 0.0; }
+        double *testErrors = new double[N];
+        double *trainErrors = new double[N];
+        for (int i = 0; i < N; ++i) { testErrors[i] = 0.0; trainErrors[i] = 0.0; }
+
         double bestTestError = DBL_MAX;
         for (int i = 0; i < N; i++) {
             cout << "**********" << endl;
             cout << "SEED " << seeds[i] << endl;
             cout << "**********" << endl;
             srand(seeds[i]);
-            mlp.runOnlineBackPropagation(trainDataset, testDataset, iterations, 
-                                         &(trainErrors[i]), &(testErrors[i]));
+
+            // <-- ADD: si hay CSV, pasar nombre a runOnlineBackPropagation extendido
+            if (cflag && csvFile) {
+                mlp.runOnlineBackPropagation(trainDataset, testDataset, iterations,
+                                             &(trainErrors[i]), &(testErrors[i]),
+                                             csvFile, seeds[i]); // <-- extensión
+            } else {
+                mlp.runOnlineBackPropagation(trainDataset, testDataset, iterations,
+                                             &(trainErrors[i]), &(testErrors[i]));
+            }
+
             cout << "We end!! => Final test error: " << testErrors[i] << endl;
             if (wflag && testErrors[i] <= bestTestError) {
                 mlp.saveWeights(weightsFile);
                 bestTestError = testErrors[i];
             }
         }
+
         double averageTestError = 0, stdTestError = 0;
         double averageTrainError = 0, stdTrainError = 0;
         for (int i = 0; i < N; i++) {
@@ -153,6 +181,7 @@ int main(int argc, char **argv) {
         cout << "************" << endl;
         cout << "Train error (Mean +- SD): " << averageTrainError << " +- " << stdTrainError << endl;
         cout << "Test error  (Mean +- SD): " << averageTestError << " +- " << stdTestError << endl;
+
         delete[] topology;
         delete[] testErrors;
         delete[] trainErrors;
@@ -174,7 +203,8 @@ int main(int argc, char **argv) {
             delete[] testDataset->outputs;
             delete testDataset;
         }
-    } else if (predictMode) {
+    } 
+    else if (predictMode) {
         // --------- PREDICCIÓN (Kaggle) ----------
         Dataset * testDataset  = readData(testFile);
         if (!testDataset) {
@@ -187,7 +217,6 @@ int main(int argc, char **argv) {
             return EXIT_FAILURE;
         }
         mlp.predict(testDataset);
-        // Liberar memoria de testDataset
         for (int i = 0; i < testDataset->nOfPatterns; i++) {
             delete[] testDataset->inputs[i];
             delete[] testDataset->outputs[i];
