@@ -179,7 +179,6 @@ int main(int argc, char **argv) {
         stdTrainError = sqrt(sumSqDiffTrain / (N > 1 ? N-1 : 1));
         cout << "FINAL REPORT" << endl;
         cout << "************" << endl;
-        mlp.debugPrintNetwork();
         cout << "Train error (Mean +- SD): " << averageTrainError << " +- " << stdTrainError << endl;
         cout << "Test error  (Mean +- SD): " << averageTestError << " +- " << stdTestError << endl;
 
